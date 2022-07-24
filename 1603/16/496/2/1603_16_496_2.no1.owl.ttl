@@ -26,7 +26,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Baganuur"@eng-Latn ,
         "Багануур"@mon-Cyrl ;
-    wdata:q7200235 "MN1101" ;
+    wdata:Q7200235 "MN1101" ;
 .
 
 <urn:mdciii:1603:16()>
@@ -389,7 +389,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bagaxangai"@eng-Latn ,
         "Багахангай"@mon-Cyrl ;
-    wdata:q7200235 "MN1104" ;
+    wdata:Q7200235 "MN1104" ;
 .
 
 <urn:mdciii:1603:16:496:2:1107>
@@ -403,7 +403,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bayangol"@eng-Latn ,
         "Баянгол"@mon-Cyrl ;
-    wdata:q7200235 "MN1107" ;
+    wdata:Q7200235 "MN1107" ;
 .
 
 <urn:mdciii:1603:16:496:2:1110>
@@ -417,7 +417,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bayanzu'rx"@eng-Latn ,
         "Баянзүрх"@mon-Cyrl ;
-    wdata:q7200235 "MN1110" ;
+    wdata:Q7200235 "MN1110" ;
 .
 
 <urn:mdciii:1603:16:496:2:1113>
@@ -431,7 +431,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Nalaix"@eng-Latn ,
         "Налайх"@mon-Cyrl ;
-    wdata:q7200235 "MN1113" ;
+    wdata:Q7200235 "MN1113" ;
 .
 
 <urn:mdciii:1603:16:496:2:1116>
@@ -445,7 +445,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Songinoxairxan"@eng-Latn ,
         "Сонгинохайрхан"@mon-Cyrl ;
-    wdata:q7200235 "MN1116" ;
+    wdata:Q7200235 "MN1116" ;
 .
 
 <urn:mdciii:1603:16:496:2:1119>
@@ -459,7 +459,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Su'xbaatar"@eng-Latn ,
         "Сүхбаатар"@mon-Cyrl ;
-    wdata:q7200235 "MN1119" ;
+    wdata:Q7200235 "MN1119" ;
 .
 
 <urn:mdciii:1603:16:496:2:1122>
@@ -473,7 +473,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Xan-Uul"@eng-Latn ,
         "Хан-Уул"@mon-Cyrl ;
-    wdata:q7200235 "MN1122" ;
+    wdata:Q7200235 "MN1122" ;
 .
 
 <urn:mdciii:1603:16:496:2:1125>
@@ -487,7 +487,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Chingeltei"@eng-Latn ,
         "Чингэлтэй"@mon-Cyrl ;
-    wdata:q7200235 "MN1125" ;
+    wdata:Q7200235 "MN1125" ;
 .
 
 <urn:mdciii:1603:16:496:2:2101>
@@ -501,7 +501,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Herlen"@eng-Latn ,
         "Хэрлэн"@mon-Cyrl ;
-    wdata:q7200235 "MN2101" ;
+    wdata:Q7200235 "MN2101" ;
 .
 
 <urn:mdciii:1603:16:496:2:2104>
@@ -515,7 +515,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bayandun"@eng-Latn ,
         "Баяндун"@mon-Cyrl ;
-    wdata:q7200235 "MN2104" ;
+    wdata:Q7200235 "MN2104" ;
 .
 
 <urn:mdciii:1603:16:496:2:2107>
@@ -529,7 +529,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bayantu'men"@eng-Latn ,
         "Баянтүмэн"@mon-Cyrl ;
-    wdata:q7200235 "MN2107" ;
+    wdata:Q7200235 "MN2107" ;
 .
 
 <urn:mdciii:1603:16:496:2:2110>
@@ -543,7 +543,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bayan-Uul"@eng-Latn ,
         "Баян-Уул"@mon-Cyrl ;
-    wdata:q7200235 "MN2110" ;
+    wdata:Q7200235 "MN2110" ;
 .
 
 <urn:mdciii:1603:16:496:2:2113>
@@ -557,7 +557,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bulgan"@eng-Latn ,
         "Булган"@mon-Cyrl ;
-    wdata:q7200235 "MN2113" ;
+    wdata:Q7200235 "MN2113" ;
 .
 
 <urn:mdciii:1603:16:496:2:2116>
@@ -571,7 +571,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Gurvanzagal"@eng-Latn ,
         "Гурванзагал"@mon-Cyrl ;
-    wdata:q7200235 "MN2116" ;
+    wdata:Q7200235 "MN2116" ;
 .
 
 <urn:mdciii:1603:16:496:2:2119>
@@ -585,7 +585,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Dashbalbar"@eng-Latn ,
         "Дашбалбар"@mon-Cyrl ;
-    wdata:q7200235 "MN2119" ;
+    wdata:Q7200235 "MN2119" ;
 .
 
 <urn:mdciii:1603:16:496:2:2122>
@@ -599,7 +599,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Matad"@eng-Latn ,
         "Матад"@mon-Cyrl ;
-    wdata:q7200235 "MN2122" ;
+    wdata:Q7200235 "MN2122" ;
 .
 
 <urn:mdciii:1603:16:496:2:2125>
@@ -613,7 +613,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Sergelen"@eng-Latn ,
         "Сэргэлэн"@mon-Cyrl ;
-    wdata:q7200235 "MN2125" ;
+    wdata:Q7200235 "MN2125" ;
 .
 
 <urn:mdciii:1603:16:496:2:2128>
@@ -627,7 +627,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Xalx gol"@eng-Latn ,
         "Халхгол"@mon-Cyrl ;
-    wdata:q7200235 "MN2128" ;
+    wdata:Q7200235 "MN2128" ;
 .
 
 <urn:mdciii:1603:16:496:2:2131>
@@ -641,7 +641,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Xo'lonbuir"@eng-Latn ,
         "Хөлөнбуйр"@mon-Cyrl ;
-    wdata:q7200235 "MN2131" ;
+    wdata:Q7200235 "MN2131" ;
 .
 
 <urn:mdciii:1603:16:496:2:2134>
@@ -655,7 +655,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Cagaan-Ovoo"@eng-Latn ,
         "Цагаан-Овоо"@mon-Cyrl ;
-    wdata:q7200235 "MN2134" ;
+    wdata:Q7200235 "MN2134" ;
 .
 
 <urn:mdciii:1603:16:496:2:2137>
@@ -669,7 +669,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Choibalsan"@eng-Latn ,
         "Чойбалсан"@mon-Cyrl ;
-    wdata:q7200235 "MN2137" ;
+    wdata:Q7200235 "MN2137" ;
 .
 
 <urn:mdciii:1603:16:496:2:2140>
@@ -683,7 +683,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Chuluunxoroot"@eng-Latn ,
         "Чулуунхороот"@mon-Cyrl ;
-    wdata:q7200235 "MN2140" ;
+    wdata:Q7200235 "MN2140" ;
 .
 
 <urn:mdciii:1603:16:496:2:2201>
@@ -697,7 +697,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Baruun-Urt"@eng-Latn ,
         "Баруун-Урт"@mon-Cyrl ;
-    wdata:q7200235 "MN2201" ;
+    wdata:Q7200235 "MN2201" ;
 .
 
 <urn:mdciii:1603:16:496:2:2204>
@@ -711,7 +711,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Asgat"@eng-Latn ,
         "Асгат"@mon-Cyrl ;
-    wdata:q7200235 "MN2204" ;
+    wdata:Q7200235 "MN2204" ;
 .
 
 <urn:mdciii:1603:16:496:2:2207>
@@ -725,7 +725,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bayandelger"@eng-Latn ,
         "Баяндэлгэр"@mon-Cyrl ;
-    wdata:q7200235 "MN2207" ;
+    wdata:Q7200235 "MN2207" ;
 .
 
 <urn:mdciii:1603:16:496:2:2210>
@@ -739,7 +739,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Dariganga"@eng-Latn ,
         "Дарьганга"@mon-Cyrl ;
-    wdata:q7200235 "MN2210" ;
+    wdata:Q7200235 "MN2210" ;
 .
 
 <urn:mdciii:1603:16:496:2:2213>
@@ -753,7 +753,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Mo'nxxaan"@eng-Latn ,
         "Мөнххаан"@mon-Cyrl ;
-    wdata:q7200235 "MN2213" ;
+    wdata:Q7200235 "MN2213" ;
 .
 
 <urn:mdciii:1603:16:496:2:2216>
@@ -767,7 +767,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Naran"@eng-Latn ,
         "Наран"@mon-Cyrl ;
-    wdata:q7200235 "MN2216" ;
+    wdata:Q7200235 "MN2216" ;
 .
 
 <urn:mdciii:1603:16:496:2:2219>
@@ -781,7 +781,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Ongon"@eng-Latn ,
         "Онгон"@mon-Cyrl ;
-    wdata:q7200235 "MN2219" ;
+    wdata:Q7200235 "MN2219" ;
 .
 
 <urn:mdciii:1603:16:496:2:2222>
@@ -795,7 +795,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Su'xbaatar"@eng-Latn ,
         "Сүхбаатар"@mon-Cyrl ;
-    wdata:q7200235 "MN2222" ;
+    wdata:Q7200235 "MN2222" ;
 .
 
 <urn:mdciii:1603:16:496:2:2225>
@@ -809,7 +809,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Tu'vshinshiree"@eng-Latn ,
         "Түвшинширээ"@mon-Cyrl ;
-    wdata:q7200235 "MN2225" ;
+    wdata:Q7200235 "MN2225" ;
 .
 
 <urn:mdciii:1603:16:496:2:2228>
@@ -823,7 +823,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Tu'mencogt"@eng-Latn ,
         "Түмэнцогт"@mon-Cyrl ;
-    wdata:q7200235 "MN2228" ;
+    wdata:Q7200235 "MN2228" ;
 .
 
 <urn:mdciii:1603:16:496:2:2231>
@@ -837,7 +837,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Uulbayan"@eng-Latn ,
         "Уулбаян"@mon-Cyrl ;
-    wdata:q7200235 "MN2231" ;
+    wdata:Q7200235 "MN2231" ;
 .
 
 <urn:mdciii:1603:16:496:2:2234>
@@ -851,7 +851,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Xalzan"@eng-Latn ,
         "Халзан"@mon-Cyrl ;
-    wdata:q7200235 "MN2234" ;
+    wdata:Q7200235 "MN2234" ;
 .
 
 <urn:mdciii:1603:16:496:2:2237>
@@ -865,7 +865,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Erdenecagaan"@eng-Latn ,
         "Эрдэнэцагаан"@mon-Cyrl ;
-    wdata:q7200235 "MN2237" ;
+    wdata:Q7200235 "MN2237" ;
 .
 
 <urn:mdciii:1603:16:496:2:2301>
@@ -879,7 +879,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Xerlen"@eng-Latn ,
         "Хэрлэн"@mon-Cyrl ;
-    wdata:q7200235 "MN2301" ;
+    wdata:Q7200235 "MN2301" ;
 .
 
 <urn:mdciii:1603:16:496:2:2304>
@@ -893,7 +893,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Batnorov"@eng-Latn ,
         "Батноров"@mon-Cyrl ;
-    wdata:q7200235 "MN2304" ;
+    wdata:Q7200235 "MN2304" ;
 .
 
 <urn:mdciii:1603:16:496:2:2307>
@@ -907,7 +907,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Batshireet"@eng-Latn ,
         "Батширээт"@mon-Cyrl ;
-    wdata:q7200235 "MN2307" ;
+    wdata:Q7200235 "MN2307" ;
 .
 
 <urn:mdciii:1603:16:496:2:2310>
@@ -921,7 +921,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bayan-Adraga"@eng-Latn ,
         "Баян-Адарга"@mon-Cyrl ;
-    wdata:q7200235 "MN2310" ;
+    wdata:Q7200235 "MN2310" ;
 .
 
 <urn:mdciii:1603:16:496:2:2313>
@@ -935,7 +935,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bayanmo'nx"@eng-Latn ,
         "Баянмөнх"@mon-Cyrl ;
-    wdata:q7200235 "MN2313" ;
+    wdata:Q7200235 "MN2313" ;
 .
 
 <urn:mdciii:1603:16:496:2:2316>
@@ -949,7 +949,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bayan-Ovoo"@eng-Latn ,
         "Баян-Овоо"@mon-Cyrl ;
-    wdata:q7200235 "MN2316" ;
+    wdata:Q7200235 "MN2316" ;
 .
 
 <urn:mdciii:1603:16:496:2:2319>
@@ -963,7 +963,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bayanxutag"@eng-Latn ,
         "Баянхутаг"@mon-Cyrl ;
-    wdata:q7200235 "MN2319" ;
+    wdata:Q7200235 "MN2319" ;
 .
 
 <urn:mdciii:1603:16:496:2:2322>
@@ -977,7 +977,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Binder"@eng-Latn ,
         "Биндэр"@mon-Cyrl ;
-    wdata:q7200235 "MN2322" ;
+    wdata:Q7200235 "MN2322" ;
 .
 
 <urn:mdciii:1603:16:496:2:2325>
@@ -991,7 +991,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Galshir"@eng-Latn ,
         "Галшар"@mon-Cyrl ;
-    wdata:q7200235 "MN2325" ;
+    wdata:Q7200235 "MN2325" ;
 .
 
 <urn:mdciii:1603:16:496:2:2328>
@@ -1005,7 +1005,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Dadal"@eng-Latn ,
         "Дадал"@mon-Cyrl ;
-    wdata:q7200235 "MN2328" ;
+    wdata:Q7200235 "MN2328" ;
 .
 
 <urn:mdciii:1603:16:496:2:2331>
@@ -1019,7 +1019,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Darxan"@eng-Latn ,
         "Дархан"@mon-Cyrl ;
-    wdata:q7200235 "MN2331" ;
+    wdata:Q7200235 "MN2331" ;
 .
 
 <urn:mdciii:1603:16:496:2:2334>
@@ -1033,7 +1033,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Delgerxaan"@eng-Latn ,
         "Дэлгэрхаан"@mon-Cyrl ;
-    wdata:q7200235 "MN2334" ;
+    wdata:Q7200235 "MN2334" ;
 .
 
 <urn:mdciii:1603:16:496:2:2337>
@@ -1047,7 +1047,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Jargaltxaan"@eng-Latn ,
         "Жаргалтхаан"@mon-Cyrl ;
-    wdata:q7200235 "MN2337" ;
+    wdata:Q7200235 "MN2337" ;
 .
 
 <urn:mdciii:1603:16:496:2:2340>
@@ -1061,7 +1061,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Mo'ron"@eng-Latn ,
         "Мөрөн"@mon-Cyrl ;
-    wdata:q7200235 "MN2340" ;
+    wdata:Q7200235 "MN2340" ;
 .
 
 <urn:mdciii:1603:16:496:2:2343>
@@ -1075,7 +1075,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Norovlin"@eng-Latn ,
         "Норовлин"@mon-Cyrl ;
-    wdata:q7200235 "MN2343" ;
+    wdata:Q7200235 "MN2343" ;
 .
 
 <urn:mdciii:1603:16:496:2:2346>
@@ -1089,7 +1089,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "O'mnodelger"@eng-Latn ,
         "Өмнөдэлгэр"@mon-Cyrl ;
-    wdata:q7200235 "MN2346" ;
+    wdata:Q7200235 "MN2346" ;
 .
 
 <urn:mdciii:1603:16:496:2:2349>
@@ -1103,7 +1103,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Cenxermandal"@eng-Latn ,
         "Цэнхэрмандал"@mon-Cyrl ;
-    wdata:q7200235 "MN2349" ;
+    wdata:Q7200235 "MN2349" ;
 .
 
 <urn:mdciii:1603:16:496:2:2352>
@@ -1117,7 +1117,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bor-Ondor"@eng-Latn ,
         "Бор-Өндөр"@mon-Cyrl ;
-    wdata:q7200235 "MN2352" ;
+    wdata:Q7200235 "MN2352" ;
 .
 
 <urn:mdciii:1603:16:496:2:4101>
@@ -1131,7 +1131,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Zuunmod"@eng-Latn ,
         "Зуунмод"@mon-Cyrl ;
-    wdata:q7200235 "MN4101" ;
+    wdata:Q7200235 "MN4101" ;
 .
 
 <urn:mdciii:1603:16:496:2:4104>
@@ -1145,7 +1145,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Altanbulag"@eng-Latn ,
         "Алтанбулаг"@mon-Cyrl ;
-    wdata:q7200235 "MN4104" ;
+    wdata:Q7200235 "MN4104" ;
 .
 
 <urn:mdciii:1603:16:496:2:4107>
@@ -1159,7 +1159,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Argalant"@eng-Latn ,
         "Аргалант"@mon-Cyrl ;
-    wdata:q7200235 "MN4107" ;
+    wdata:Q7200235 "MN4107" ;
 .
 
 <urn:mdciii:1603:16:496:2:4110>
@@ -1173,7 +1173,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Arxust"@eng-Latn ,
         "Архуст"@mon-Cyrl ;
-    wdata:q7200235 "MN4110" ;
+    wdata:Q7200235 "MN4110" ;
 .
 
 <urn:mdciii:1603:16:496:2:4113>
@@ -1187,7 +1187,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Batsu'mber"@eng-Latn ,
         "Батсүмбэр"@mon-Cyrl ;
-    wdata:q7200235 "MN4113" ;
+    wdata:Q7200235 "MN4113" ;
 .
 
 <urn:mdciii:1603:16:496:2:4116>
@@ -1201,7 +1201,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bayan"@eng-Latn ,
         "Баян"@mon-Cyrl ;
-    wdata:q7200235 "MN4116" ;
+    wdata:Q7200235 "MN4116" ;
 .
 
 <urn:mdciii:1603:16:496:2:4119>
@@ -1215,7 +1215,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bayandelger"@eng-Latn ,
         "Баяндэлгэр"@mon-Cyrl ;
-    wdata:q7200235 "MN4119" ;
+    wdata:Q7200235 "MN4119" ;
 .
 
 <urn:mdciii:1603:16:496:2:4122>
@@ -1229,7 +1229,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bayanjargalan"@eng-Latn ,
         "Баянжаргалан"@mon-Cyrl ;
-    wdata:q7200235 "MN4122" ;
+    wdata:Q7200235 "MN4122" ;
 .
 
 <urn:mdciii:1603:16:496:2:4125>
@@ -1243,7 +1243,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bayan-O'njuul"@eng-Latn ,
         "Баян-Өнжүүл"@mon-Cyrl ;
-    wdata:q7200235 "MN4125" ;
+    wdata:Q7200235 "MN4125" ;
 .
 
 <urn:mdciii:1603:16:496:2:4128>
@@ -1257,7 +1257,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bayanxangai"@eng-Latn ,
         "Баянхангай"@mon-Cyrl ;
-    wdata:q7200235 "MN4128" ;
+    wdata:Q7200235 "MN4128" ;
 .
 
 <urn:mdciii:1603:16:496:2:4131>
@@ -1271,7 +1271,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bayancagaan"@eng-Latn ,
         "Баянцагаан"@mon-Cyrl ;
-    wdata:q7200235 "MN4131" ;
+    wdata:Q7200235 "MN4131" ;
 .
 
 <urn:mdciii:1603:16:496:2:4134>
@@ -1285,7 +1285,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bayancogt"@eng-Latn ,
         "Баянцогт"@mon-Cyrl ;
-    wdata:q7200235 "MN4134" ;
+    wdata:Q7200235 "MN4134" ;
 .
 
 <urn:mdciii:1603:16:496:2:4137>
@@ -1299,7 +1299,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bayanchandmani"@eng-Latn ,
         "Баянчандмань"@mon-Cyrl ;
-    wdata:q7200235 "MN4137" ;
+    wdata:Q7200235 "MN4137" ;
 .
 
 <urn:mdciii:1603:16:496:2:4140>
@@ -1313,7 +1313,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bornuur"@eng-Latn ,
         "Борнуур"@mon-Cyrl ;
-    wdata:q7200235 "MN4140" ;
+    wdata:Q7200235 "MN4140" ;
 .
 
 <urn:mdciii:1603:16:496:2:4143>
@@ -1327,7 +1327,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bu'ren"@eng-Latn ,
         "Бүрэн"@mon-Cyrl ;
-    wdata:q7200235 "MN4143" ;
+    wdata:Q7200235 "MN4143" ;
 .
 
 <urn:mdciii:1603:16:496:2:4146>
@@ -1341,7 +1341,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Delgerxaan"@eng-Latn ,
         "Дэлгэрхаан"@mon-Cyrl ;
-    wdata:q7200235 "MN4146" ;
+    wdata:Q7200235 "MN4146" ;
 .
 
 <urn:mdciii:1603:16:496:2:4149>
@@ -1355,7 +1355,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Jargalant"@eng-Latn ,
         "Жаргалант"@mon-Cyrl ;
-    wdata:q7200235 "MN4149" ;
+    wdata:Q7200235 "MN4149" ;
 .
 
 <urn:mdciii:1603:16:496:2:4152>
@@ -1369,7 +1369,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Zaamar"@eng-Latn ,
         "Заамар"@mon-Cyrl ;
-    wdata:q7200235 "MN4152" ;
+    wdata:Q7200235 "MN4152" ;
 .
 
 <urn:mdciii:1603:16:496:2:4155>
@@ -1383,7 +1383,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Lu'n"@eng-Latn ,
         "Лүн"@mon-Cyrl ;
-    wdata:q7200235 "MN4155" ;
+    wdata:Q7200235 "MN4155" ;
 .
 
 <urn:mdciii:1603:16:496:2:4158>
@@ -1397,7 +1397,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Mo'ngonmorit"@eng-Latn ,
         "Мөнгөнморьт"@mon-Cyrl ;
-    wdata:q7200235 "MN4158" ;
+    wdata:Q7200235 "MN4158" ;
 .
 
 <urn:mdciii:1603:16:496:2:4161>
@@ -1411,7 +1411,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "O'ndorshireet"@eng-Latn ,
         "Өндөрширээт"@mon-Cyrl ;
-    wdata:q7200235 "MN4161" ;
+    wdata:Q7200235 "MN4161" ;
 .
 
 <urn:mdciii:1603:16:496:2:4164>
@@ -1425,7 +1425,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Su'mber"@eng-Latn ,
         "Сүмбэр"@mon-Cyrl ;
-    wdata:q7200235 "MN4164" ;
+    wdata:Q7200235 "MN4164" ;
 .
 
 <urn:mdciii:1603:16:496:2:4167>
@@ -1439,7 +1439,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Sergelen"@eng-Latn ,
         "Сэргэлэн"@mon-Cyrl ;
-    wdata:q7200235 "MN4167" ;
+    wdata:Q7200235 "MN4167" ;
 .
 
 <urn:mdciii:1603:16:496:2:4170>
@@ -1453,7 +1453,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Ugtaalcaidam"@eng-Latn ,
         "Угтаалцайдам"@mon-Cyrl ;
-    wdata:q7200235 "MN4170" ;
+    wdata:Q7200235 "MN4170" ;
 .
 
 <urn:mdciii:1603:16:496:2:4173>
@@ -1467,7 +1467,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Ceel"@eng-Latn ,
         "Цээл"@mon-Cyrl ;
-    wdata:q7200235 "MN4173" ;
+    wdata:Q7200235 "MN4173" ;
 .
 
 <urn:mdciii:1603:16:496:2:4176>
@@ -1481,7 +1481,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Erdene"@eng-Latn ,
         "Эрдэнэ"@mon-Cyrl ;
-    wdata:q7200235 "MN4176" ;
+    wdata:Q7200235 "MN4176" ;
 .
 
 <urn:mdciii:1603:16:496:2:4179>
@@ -1495,7 +1495,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Erdenesant"@eng-Latn ,
         "Эрдэнэсант"@mon-Cyrl ;
-    wdata:q7200235 "MN4179" ;
+    wdata:Q7200235 "MN4179" ;
 .
 
 <urn:mdciii:1603:16:496:2:4201>
@@ -1509,7 +1509,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Su'mber"@eng-Latn ,
         "Сүмбэр"@mon-Cyrl ;
-    wdata:q7200235 "MN4201" ;
+    wdata:Q7200235 "MN4201" ;
 .
 
 <urn:mdciii:1603:16:496:2:4204>
@@ -1523,7 +1523,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bayantal"@eng-Latn ,
         "Баянтал"@mon-Cyrl ;
-    wdata:q7200235 "MN4204" ;
+    wdata:Q7200235 "MN4204" ;
 .
 
 <urn:mdciii:1603:16:496:2:4207>
@@ -1537,7 +1537,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Shiveegovi"@eng-Latn ,
         "Шивээговь"@mon-Cyrl ;
-    wdata:q7200235 "MN4207" ;
+    wdata:Q7200235 "MN4207" ;
 .
 
 <urn:mdciii:1603:16:496:2:4301>
@@ -1551,7 +1551,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Su'xbaatar"@eng-Latn ,
         "Сүхбаатар"@mon-Cyrl ;
-    wdata:q7200235 "MN4301" ;
+    wdata:Q7200235 "MN4301" ;
 .
 
 <urn:mdciii:1603:16:496:2:4304>
@@ -1565,7 +1565,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Altanbulag"@eng-Latn ,
         "Алтанбулаг"@mon-Cyrl ;
-    wdata:q7200235 "MN4304" ;
+    wdata:Q7200235 "MN4304" ;
 .
 
 <urn:mdciii:1603:16:496:2:4307>
@@ -1579,7 +1579,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Baruunbu'ren"@eng-Latn ,
         "Баруунбүрэн"@mon-Cyrl ;
-    wdata:q7200235 "MN4307" ;
+    wdata:Q7200235 "MN4307" ;
 .
 
 <urn:mdciii:1603:16:496:2:4310>
@@ -1593,7 +1593,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bayangol"@eng-Latn ,
         "Баянгол"@mon-Cyrl ;
-    wdata:q7200235 "MN4310" ;
+    wdata:Q7200235 "MN4310" ;
 .
 
 <urn:mdciii:1603:16:496:2:4313>
@@ -1607,7 +1607,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Yero'o"@eng-Latn ,
         "Ерөө"@mon-Cyrl ;
-    wdata:q7200235 "MN4313" ;
+    wdata:Q7200235 "MN4313" ;
 .
 
 <urn:mdciii:1603:16:496:2:4316>
@@ -1621,7 +1621,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Javxlant"@eng-Latn ,
         "Жавхлант"@mon-Cyrl ;
-    wdata:q7200235 "MN4316" ;
+    wdata:Q7200235 "MN4316" ;
 .
 
 <urn:mdciii:1603:16:496:2:4319>
@@ -1635,7 +1635,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Zu'unburen"@eng-Latn ,
         "Зүүнбүрэн"@mon-Cyrl ;
-    wdata:q7200235 "MN4319" ;
+    wdata:Q7200235 "MN4319" ;
 .
 
 <urn:mdciii:1603:16:496:2:4322>
@@ -1649,7 +1649,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Mandal"@eng-Latn ,
         "Мандал"@mon-Cyrl ;
-    wdata:q7200235 "MN4322" ;
+    wdata:Q7200235 "MN4322" ;
 .
 
 <urn:mdciii:1603:16:496:2:4325>
@@ -1663,7 +1663,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Orxon"@eng-Latn ,
         "Орхон"@mon-Cyrl ;
-    wdata:q7200235 "MN4325" ;
+    wdata:Q7200235 "MN4325" ;
 .
 
 <urn:mdciii:1603:16:496:2:4328>
@@ -1677,7 +1677,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Orxontuul"@eng-Latn ,
         "Орхонтуул"@mon-Cyrl ;
-    wdata:q7200235 "MN4328" ;
+    wdata:Q7200235 "MN4328" ;
 .
 
 <urn:mdciii:1603:16:496:2:4331>
@@ -1691,7 +1691,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Saixan"@eng-Latn ,
         "Сайхан"@mon-Cyrl ;
-    wdata:q7200235 "MN4331" ;
+    wdata:Q7200235 "MN4331" ;
 .
 
 <urn:mdciii:1603:16:496:2:4334>
@@ -1705,7 +1705,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Sant"@eng-Latn ,
         "Сант"@mon-Cyrl ;
-    wdata:q7200235 "MN4334" ;
+    wdata:Q7200235 "MN4334" ;
 .
 
 <urn:mdciii:1603:16:496:2:4337>
@@ -1719,7 +1719,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Tu'shig"@eng-Latn ,
         "Түшиг"@mon-Cyrl ;
-    wdata:q7200235 "MN4337" ;
+    wdata:Q7200235 "MN4337" ;
 .
 
 <urn:mdciii:1603:16:496:2:4340>
@@ -1733,7 +1733,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Xu'der"@eng-Latn ,
         "Хүдэр"@mon-Cyrl ;
-    wdata:q7200235 "MN4340" ;
+    wdata:Q7200235 "MN4340" ;
 .
 
 <urn:mdciii:1603:16:496:2:4343>
@@ -1747,7 +1747,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Xushaat"@eng-Latn ,
         "Хушаат"@mon-Cyrl ;
-    wdata:q7200235 "MN4343" ;
+    wdata:Q7200235 "MN4343" ;
 .
 
 <urn:mdciii:1603:16:496:2:4346>
@@ -1761,7 +1761,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Cagaannuur"@eng-Latn ,
         "Цагааннуур"@mon-Cyrl ;
-    wdata:q7200235 "MN4346" ;
+    wdata:Q7200235 "MN4346" ;
 .
 
 <urn:mdciii:1603:16:496:2:4349>
@@ -1775,7 +1775,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Shaamar"@eng-Latn ,
         "Шаамар"@mon-Cyrl ;
-    wdata:q7200235 "MN4349" ;
+    wdata:Q7200235 "MN4349" ;
 .
 
 <urn:mdciii:1603:16:496:2:4401>
@@ -1789,7 +1789,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Sainshand"@eng-Latn ,
         "Сайншанд"@mon-Cyrl ;
-    wdata:q7200235 "MN4401" ;
+    wdata:Q7200235 "MN4401" ;
 .
 
 <urn:mdciii:1603:16:496:2:4404>
@@ -1803,7 +1803,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Airag"@eng-Latn ,
         "Айраг"@mon-Cyrl ;
-    wdata:q7200235 "MN4404" ;
+    wdata:Q7200235 "MN4404" ;
 .
 
 <urn:mdciii:1603:16:496:2:4407>
@@ -1817,7 +1817,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Altanshiree"@eng-Latn ,
         "Алтанширээ"@mon-Cyrl ;
-    wdata:q7200235 "MN4407" ;
+    wdata:Q7200235 "MN4407" ;
 .
 
 <urn:mdciii:1603:16:496:2:4410>
@@ -1831,7 +1831,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Dalanjargalan"@eng-Latn ,
         "Даланжаргалан"@mon-Cyrl ;
-    wdata:q7200235 "MN4410" ;
+    wdata:Q7200235 "MN4410" ;
 .
 
 <urn:mdciii:1603:16:496:2:4413>
@@ -1845,7 +1845,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Delgerex"@eng-Latn ,
         "Дэлгэрэх"@mon-Cyrl ;
-    wdata:q7200235 "MN4413" ;
+    wdata:Q7200235 "MN4413" ;
 .
 
 <urn:mdciii:1603:16:496:2:4416>
@@ -1859,7 +1859,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Zamyn U'ud"@eng-Latn ,
         "Замын-Үүд"@mon-Cyrl ;
-    wdata:q7200235 "MN4416" ;
+    wdata:Q7200235 "MN4416" ;
 .
 
 <urn:mdciii:1603:16:496:2:4419>
@@ -1873,7 +1873,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Ix xet"@eng-Latn ,
         "Иххэт"@mon-Cyrl ;
-    wdata:q7200235 "MN4419" ;
+    wdata:Q7200235 "MN4419" ;
 .
 
 <urn:mdciii:1603:16:496:2:4422>
@@ -1887,7 +1887,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Mandax"@eng-Latn ,
         "Мандах"@mon-Cyrl ;
-    wdata:q7200235 "MN4422" ;
+    wdata:Q7200235 "MN4422" ;
 .
 
 <urn:mdciii:1603:16:496:2:4425>
@@ -1901,7 +1901,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "O'rgon"@eng-Latn ,
         "Өргөн"@mon-Cyrl ;
-    wdata:q7200235 "MN4425" ;
+    wdata:Q7200235 "MN4425" ;
 .
 
 <urn:mdciii:1603:16:496:2:4428>
@@ -1915,7 +1915,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Saixandulaan"@eng-Latn ,
         "Сайхандулаан"@mon-Cyrl ;
-    wdata:q7200235 "MN4428" ;
+    wdata:Q7200235 "MN4428" ;
 .
 
 <urn:mdciii:1603:16:496:2:4431>
@@ -1929,7 +1929,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Ulaanbadrax"@eng-Latn ,
         "Улаанбадрах"@mon-Cyrl ;
-    wdata:q7200235 "MN4431" ;
+    wdata:Q7200235 "MN4431" ;
 .
 
 <urn:mdciii:1603:16:496:2:4434>
@@ -1943,7 +1943,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Xatanbulag"@eng-Latn ,
         "Хатанбулаг"@mon-Cyrl ;
-    wdata:q7200235 "MN4434" ;
+    wdata:Q7200235 "MN4434" ;
 .
 
 <urn:mdciii:1603:16:496:2:4437>
@@ -1957,7 +1957,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Xo'vsgol"@eng-Latn ,
         "Хөвсгөл"@mon-Cyrl ;
-    wdata:q7200235 "MN4437" ;
+    wdata:Q7200235 "MN4437" ;
 .
 
 <urn:mdciii:1603:16:496:2:4440>
@@ -1971,7 +1971,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Erdene"@eng-Latn ,
         "Эрдэнэ"@mon-Cyrl ;
-    wdata:q7200235 "MN4440" ;
+    wdata:Q7200235 "MN4440" ;
 .
 
 <urn:mdciii:1603:16:496:2:4501>
@@ -1985,7 +1985,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Darxan"@eng-Latn ,
         "Дархан"@mon-Cyrl ;
-    wdata:q7200235 "MN4501" ;
+    wdata:Q7200235 "MN4501" ;
 .
 
 <urn:mdciii:1603:16:496:2:4504>
@@ -1999,7 +1999,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Orxon"@eng-Latn ,
         "Орхон"@mon-Cyrl ;
-    wdata:q7200235 "MN4504" ;
+    wdata:Q7200235 "MN4504" ;
 .
 
 <urn:mdciii:1603:16:496:2:4507>
@@ -2013,7 +2013,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Xongor"@eng-Latn ,
         "Хонгор"@mon-Cyrl ;
-    wdata:q7200235 "MN4507" ;
+    wdata:Q7200235 "MN4507" ;
 .
 
 <urn:mdciii:1603:16:496:2:4510>
@@ -2027,7 +2027,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Sharyngol"@eng-Latn ,
         "Шарын гол"@mon-Cyrl ;
-    wdata:q7200235 "MN4510" ;
+    wdata:Q7200235 "MN4510" ;
 .
 
 <urn:mdciii:1603:16:496:2:4601>
@@ -2041,7 +2041,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Dalanzadgad"@eng-Latn ,
         "Даланзадгад"@mon-Cyrl ;
-    wdata:q7200235 "MN4601" ;
+    wdata:Q7200235 "MN4601" ;
 .
 
 <urn:mdciii:1603:16:496:2:4604>
@@ -2055,7 +2055,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bayandalai"@eng-Latn ,
         "Баяндалай"@mon-Cyrl ;
-    wdata:q7200235 "MN4604" ;
+    wdata:Q7200235 "MN4604" ;
 .
 
 <urn:mdciii:1603:16:496:2:4607>
@@ -2069,7 +2069,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bayan-Ovoo"@eng-Latn ,
         "Баян-Овоо"@mon-Cyrl ;
-    wdata:q7200235 "MN4607" ;
+    wdata:Q7200235 "MN4607" ;
 .
 
 <urn:mdciii:1603:16:496:2:4610>
@@ -2083,7 +2083,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bulgan"@eng-Latn ,
         "Булган"@mon-Cyrl ;
-    wdata:q7200235 "MN4610" ;
+    wdata:Q7200235 "MN4610" ;
 .
 
 <urn:mdciii:1603:16:496:2:4613>
@@ -2097,7 +2097,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Gurvantes"@eng-Latn ,
         "Гурвантэс"@mon-Cyrl ;
-    wdata:q7200235 "MN4613" ;
+    wdata:Q7200235 "MN4613" ;
 .
 
 <urn:mdciii:1603:16:496:2:4616>
@@ -2111,7 +2111,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Mandal-Ovoo"@eng-Latn ,
         "Мандал-Овоо"@mon-Cyrl ;
-    wdata:q7200235 "MN4616" ;
+    wdata:Q7200235 "MN4616" ;
 .
 
 <urn:mdciii:1603:16:496:2:4619>
@@ -2125,7 +2125,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Manlai"@eng-Latn ,
         "Манлай"@mon-Cyrl ;
-    wdata:q7200235 "MN4619" ;
+    wdata:Q7200235 "MN4619" ;
 .
 
 <urn:mdciii:1603:16:496:2:4622>
@@ -2139,7 +2139,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Noyon"@eng-Latn ,
         "Ноён"@mon-Cyrl ;
-    wdata:q7200235 "MN4622" ;
+    wdata:Q7200235 "MN4622" ;
 .
 
 <urn:mdciii:1603:16:496:2:4625>
@@ -2153,7 +2153,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Nomgon"@eng-Latn ,
         "Номгон"@mon-Cyrl ;
-    wdata:q7200235 "MN4625" ;
+    wdata:Q7200235 "MN4625" ;
 .
 
 <urn:mdciii:1603:16:496:2:4628>
@@ -2167,7 +2167,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Sevrei"@eng-Latn ,
         "Сэврэй"@mon-Cyrl ;
-    wdata:q7200235 "MN4628" ;
+    wdata:Q7200235 "MN4628" ;
 .
 
 <urn:mdciii:1603:16:496:2:4631>
@@ -2181,7 +2181,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Xanbogd"@eng-Latn ,
         "Ханбогд"@mon-Cyrl ;
-    wdata:q7200235 "MN4631" ;
+    wdata:Q7200235 "MN4631" ;
 .
 
 <urn:mdciii:1603:16:496:2:4634>
@@ -2195,7 +2195,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Xanxongor"@eng-Latn ,
         "Ханхонгор"@mon-Cyrl ;
-    wdata:q7200235 "MN4634" ;
+    wdata:Q7200235 "MN4634" ;
 .
 
 <urn:mdciii:1603:16:496:2:4637>
@@ -2209,7 +2209,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Xu'rmen"@eng-Latn ,
         "Хүрмэн"@mon-Cyrl ;
-    wdata:q7200235 "MN4637" ;
+    wdata:Q7200235 "MN4637" ;
 .
 
 <urn:mdciii:1603:16:496:2:4640>
@@ -2223,7 +2223,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Cogt-Ovoo"@eng-Latn ,
         "Цогт-Овоо"@mon-Cyrl ;
-    wdata:q7200235 "MN4640" ;
+    wdata:Q7200235 "MN4640" ;
 .
 
 <urn:mdciii:1603:16:496:2:4643>
@@ -2237,7 +2237,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Cogt-Cecii"@eng-Latn ,
         "Цогтцэций"@mon-Cyrl ;
-    wdata:q7200235 "MN4643" ;
+    wdata:Q7200235 "MN4643" ;
 .
 
 <urn:mdciii:1603:16:496:2:4801>
@@ -2251,7 +2251,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Saintsagaan"@eng-Latn ,
         "Сайнцагаан"@mon-Cyrl ;
-    wdata:q7200235 "MN4801" ;
+    wdata:Q7200235 "MN4801" ;
 .
 
 <urn:mdciii:1603:16:496:2:4804>
@@ -2265,7 +2265,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Adaacag"@eng-Latn ,
         "Адаацаг"@mon-Cyrl ;
-    wdata:q7200235 "MN4804" ;
+    wdata:Q7200235 "MN4804" ;
 .
 
 <urn:mdciii:1603:16:496:2:4807>
@@ -2279,7 +2279,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bayanjargalan"@eng-Latn ,
         "Баянжаргалан"@mon-Cyrl ;
-    wdata:q7200235 "MN4807" ;
+    wdata:Q7200235 "MN4807" ;
 .
 
 <urn:mdciii:1603:16:496:2:4810>
@@ -2293,7 +2293,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Govi-Ugtaal"@eng-Latn ,
         "Говь-Угтаал"@mon-Cyrl ;
-    wdata:q7200235 "MN4810" ;
+    wdata:Q7200235 "MN4810" ;
 .
 
 <urn:mdciii:1603:16:496:2:4813>
@@ -2307,7 +2307,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Gurvansaixan"@eng-Latn ,
         "Гурвансайхан"@mon-Cyrl ;
-    wdata:q7200235 "MN4813" ;
+    wdata:Q7200235 "MN4813" ;
 .
 
 <urn:mdciii:1603:16:496:2:4816>
@@ -2321,7 +2321,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Delgerxangai"@eng-Latn ,
         "Дэлгэрхангай"@mon-Cyrl ;
-    wdata:q7200235 "MN4816" ;
+    wdata:Q7200235 "MN4816" ;
 .
 
 <urn:mdciii:1603:16:496:2:4819>
@@ -2335,7 +2335,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Delgercogt"@eng-Latn ,
         "Дэлгэрцогт"@mon-Cyrl ;
-    wdata:q7200235 "MN4819" ;
+    wdata:Q7200235 "MN4819" ;
 .
 
 <urn:mdciii:1603:16:496:2:4822>
@@ -2349,7 +2349,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Deren"@eng-Latn ,
         "Дэрэн"@mon-Cyrl ;
-    wdata:q7200235 "MN4822" ;
+    wdata:Q7200235 "MN4822" ;
 .
 
 <urn:mdciii:1603:16:496:2:4825>
@@ -2363,7 +2363,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Luus"@eng-Latn ,
         "Луус"@mon-Cyrl ;
-    wdata:q7200235 "MN4825" ;
+    wdata:Q7200235 "MN4825" ;
 .
 
 <urn:mdciii:1603:16:496:2:4828>
@@ -2377,7 +2377,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "O'lziit"@eng-Latn ,
         "Өлзийт"@mon-Cyrl ;
-    wdata:q7200235 "MN4828" ;
+    wdata:Q7200235 "MN4828" ;
 .
 
 <urn:mdciii:1603:16:496:2:4831>
@@ -2391,7 +2391,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "O'ndorshil"@eng-Latn ,
         "Өндөршил"@mon-Cyrl ;
-    wdata:q7200235 "MN4831" ;
+    wdata:Q7200235 "MN4831" ;
 .
 
 <urn:mdciii:1603:16:496:2:4834>
@@ -2405,7 +2405,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Saixan-Ovoo"@eng-Latn ,
         "Сайхан-Овоо"@mon-Cyrl ;
-    wdata:q7200235 "MN4834" ;
+    wdata:Q7200235 "MN4834" ;
 .
 
 <urn:mdciii:1603:16:496:2:4837>
@@ -2419,7 +2419,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Xuld"@eng-Latn ,
         "Хулд"@mon-Cyrl ;
-    wdata:q7200235 "MN4837" ;
+    wdata:Q7200235 "MN4837" ;
 .
 
 <urn:mdciii:1603:16:496:2:4840>
@@ -2433,7 +2433,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Cagaandelger"@eng-Latn ,
         "Цагаандэлгэр"@mon-Cyrl ;
-    wdata:q7200235 "MN4840" ;
+    wdata:Q7200235 "MN4840" ;
 .
 
 <urn:mdciii:1603:16:496:2:4843>
@@ -2447,7 +2447,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Erdenedalai"@eng-Latn ,
         "Эрдэнэдалай"@mon-Cyrl ;
-    wdata:q7200235 "MN4843" ;
+    wdata:Q7200235 "MN4843" ;
 .
 
 <urn:mdciii:1603:16:496:2:6101>
@@ -2461,7 +2461,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bayan-O'ndor"@eng-Latn ,
         "Баян-Өндөр"@mon-Cyrl ;
-    wdata:q7200235 "MN6101" ;
+    wdata:Q7200235 "MN6101" ;
 .
 
 <urn:mdciii:1603:16:496:2:6104>
@@ -2475,7 +2475,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Jargalant"@eng-Latn ,
         "Жаргалант"@mon-Cyrl ;
-    wdata:q7200235 "MN6104" ;
+    wdata:Q7200235 "MN6104" ;
 .
 
 <urn:mdciii:1603:16:496:2:6201>
@@ -2489,7 +2489,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Arvaixeer"@eng-Latn ,
         "Арвайхээр"@mon-Cyrl ;
-    wdata:q7200235 "MN6201" ;
+    wdata:Q7200235 "MN6201" ;
 .
 
 <urn:mdciii:1603:16:496:2:6204>
@@ -2503,7 +2503,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Baruunbayan-Ulaan"@eng-Latn ,
         "Баруунбаян-Улаан"@mon-Cyrl ;
-    wdata:q7200235 "MN6204" ;
+    wdata:Q7200235 "MN6204" ;
 .
 
 <urn:mdciii:1603:16:496:2:6207>
@@ -2517,7 +2517,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bat-O'lzii"@eng-Latn ,
         "Бат-Өлзий"@mon-Cyrl ;
-    wdata:q7200235 "MN6207" ;
+    wdata:Q7200235 "MN6207" ;
 .
 
 <urn:mdciii:1603:16:496:2:6210>
@@ -2531,7 +2531,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bayangol"@eng-Latn ,
         "Баянгол"@mon-Cyrl ;
-    wdata:q7200235 "MN6210" ;
+    wdata:Q7200235 "MN6210" ;
 .
 
 <urn:mdciii:1603:16:496:2:6213>
@@ -2545,7 +2545,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bayan-O'ndor"@eng-Latn ,
         "Баян-Өндөр"@mon-Cyrl ;
-    wdata:q7200235 "MN6213" ;
+    wdata:Q7200235 "MN6213" ;
 .
 
 <urn:mdciii:1603:16:496:2:6216>
@@ -2559,7 +2559,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bogd"@eng-Latn ,
         "Богд"@mon-Cyrl ;
-    wdata:q7200235 "MN6216" ;
+    wdata:Q7200235 "MN6216" ;
 .
 
 <urn:mdciii:1603:16:496:2:6219>
@@ -2573,7 +2573,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bu'rd"@eng-Latn ,
         "Бүрд"@mon-Cyrl ;
-    wdata:q7200235 "MN6219" ;
+    wdata:Q7200235 "MN6219" ;
 .
 
 <urn:mdciii:1603:16:496:2:6222>
@@ -2587,7 +2587,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Guchin-Us"@eng-Latn ,
         "Гучин-Ус"@mon-Cyrl ;
-    wdata:q7200235 "MN6222" ;
+    wdata:Q7200235 "MN6222" ;
 .
 
 <urn:mdciii:1603:16:496:2:6225>
@@ -2601,7 +2601,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Yeso'nzu'il"@eng-Latn ,
         "Есөн зүйл"@mon-Cyrl ;
-    wdata:q7200235 "MN6225" ;
+    wdata:Q7200235 "MN6225" ;
 .
 
 <urn:mdciii:1603:16:496:2:6228>
@@ -2615,7 +2615,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Zu'unbayan-Ulaan"@eng-Latn ,
         "Зүүнбаян-Улаан"@mon-Cyrl ;
-    wdata:q7200235 "MN6228" ;
+    wdata:Q7200235 "MN6228" ;
 .
 
 <urn:mdciii:1603:16:496:2:6231>
@@ -2629,7 +2629,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Nariinteel"@eng-Latn ,
         "Нарийнтээл"@mon-Cyrl ;
-    wdata:q7200235 "MN6231" ;
+    wdata:Q7200235 "MN6231" ;
 .
 
 <urn:mdciii:1603:16:496:2:6234>
@@ -2643,7 +2643,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "O'lziit"@eng-Latn ,
         "Өлзийт"@mon-Cyrl ;
-    wdata:q7200235 "MN6234" ;
+    wdata:Q7200235 "MN6234" ;
 .
 
 <urn:mdciii:1603:16:496:2:6237>
@@ -2657,7 +2657,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Sant"@eng-Latn ,
         "Сант"@mon-Cyrl ;
-    wdata:q7200235 "MN6237" ;
+    wdata:Q7200235 "MN6237" ;
 .
 
 <urn:mdciii:1603:16:496:2:6240>
@@ -2671,7 +2671,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Taragt"@eng-Latn ,
         "Тарагт"@mon-Cyrl ;
-    wdata:q7200235 "MN6240" ;
+    wdata:Q7200235 "MN6240" ;
 .
 
 <urn:mdciii:1603:16:496:2:6243>
@@ -2685,7 +2685,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "To'grog"@eng-Latn ,
         "Төгрөг"@mon-Cyrl ;
-    wdata:q7200235 "MN6243" ;
+    wdata:Q7200235 "MN6243" ;
 .
 
 <urn:mdciii:1603:16:496:2:6246>
@@ -2699,7 +2699,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Uyanga"@eng-Latn ,
         "Уянга"@mon-Cyrl ;
-    wdata:q7200235 "MN6246" ;
+    wdata:Q7200235 "MN6246" ;
 .
 
 <urn:mdciii:1603:16:496:2:6249>
@@ -2713,7 +2713,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Xairxandulaan"@eng-Latn ,
         "Хайрхандулаан"@mon-Cyrl ;
-    wdata:q7200235 "MN6249" ;
+    wdata:Q7200235 "MN6249" ;
 .
 
 <urn:mdciii:1603:16:496:2:6252>
@@ -2727,7 +2727,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Xarxorin"@eng-Latn ,
         "Хархорин"@mon-Cyrl ;
-    wdata:q7200235 "MN6252" ;
+    wdata:Q7200235 "MN6252" ;
 .
 
 <urn:mdciii:1603:16:496:2:6255>
@@ -2741,7 +2741,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Xujirt"@eng-Latn ,
         "Хужирт"@mon-Cyrl ;
-    wdata:q7200235 "MN6255" ;
+    wdata:Q7200235 "MN6255" ;
 .
 
 <urn:mdciii:1603:16:496:2:6301>
@@ -2755,7 +2755,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bulgan"@eng-Latn ,
         "Булган"@mon-Cyrl ;
-    wdata:q7200235 "MN6301" ;
+    wdata:Q7200235 "MN6301" ;
 .
 
 <urn:mdciii:1603:16:496:2:6304>
@@ -2769,7 +2769,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bayan agt"@eng-Latn ,
         "Баян-Агт"@mon-Cyrl ;
-    wdata:q7200235 "MN6304" ;
+    wdata:Q7200235 "MN6304" ;
 .
 
 <urn:mdciii:1603:16:496:2:6307>
@@ -2783,7 +2783,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bayannuur"@eng-Latn ,
         "Баяннуур"@mon-Cyrl ;
-    wdata:q7200235 "MN6307" ;
+    wdata:Q7200235 "MN6307" ;
 .
 
 <urn:mdciii:1603:16:496:2:6310>
@@ -2797,7 +2797,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bugat"@eng-Latn ,
         "Бугат"@mon-Cyrl ;
-    wdata:q7200235 "MN6310" ;
+    wdata:Q7200235 "MN6310" ;
 .
 
 <urn:mdciii:1603:16:496:2:6313>
@@ -2811,7 +2811,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bu'regxangai"@eng-Latn ,
         "Бүрэгхангай"@mon-Cyrl ;
-    wdata:q7200235 "MN6313" ;
+    wdata:Q7200235 "MN6313" ;
 .
 
 <urn:mdciii:1603:16:496:2:6316>
@@ -2825,7 +2825,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Gurvanbulag"@eng-Latn ,
         "Гурван булаг"@mon-Cyrl ;
-    wdata:q7200235 "MN6316" ;
+    wdata:Q7200235 "MN6316" ;
 .
 
 <urn:mdciii:1603:16:496:2:6319>
@@ -2839,7 +2839,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Dashinchilen"@eng-Latn ,
         "Дашинчилэн"@mon-Cyrl ;
-    wdata:q7200235 "MN6319" ;
+    wdata:Q7200235 "MN6319" ;
 .
 
 <urn:mdciii:1603:16:496:2:6322>
@@ -2853,7 +2853,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Mogod"@eng-Latn ,
         "Могод"@mon-Cyrl ;
-    wdata:q7200235 "MN6322" ;
+    wdata:Q7200235 "MN6322" ;
 .
 
 <urn:mdciii:1603:16:496:2:6325>
@@ -2867,7 +2867,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Orxon"@eng-Latn ,
         "Орхон"@mon-Cyrl ;
-    wdata:q7200235 "MN6325" ;
+    wdata:Q7200235 "MN6325" ;
 .
 
 <urn:mdciii:1603:16:496:2:6328>
@@ -2881,7 +2881,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Rashaant"@eng-Latn ,
         "Рашаант"@mon-Cyrl ;
-    wdata:q7200235 "MN6328" ;
+    wdata:Q7200235 "MN6328" ;
 .
 
 <urn:mdciii:1603:16:496:2:6331>
@@ -2895,7 +2895,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Saixan"@eng-Latn ,
         "Сайхан"@mon-Cyrl ;
-    wdata:q7200235 "MN6331" ;
+    wdata:Q7200235 "MN6331" ;
 .
 
 <urn:mdciii:1603:16:496:2:6334>
@@ -2909,7 +2909,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Selenge"@eng-Latn ,
         "Сэлэнгэ"@mon-Cyrl ;
-    wdata:q7200235 "MN6334" ;
+    wdata:Q7200235 "MN6334" ;
 .
 
 <urn:mdciii:1603:16:496:2:6337>
@@ -2923,7 +2923,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Teshig"@eng-Latn ,
         "Тэшиг"@mon-Cyrl ;
-    wdata:q7200235 "MN6337" ;
+    wdata:Q7200235 "MN6337" ;
 .
 
 <urn:mdciii:1603:16:496:2:6340>
@@ -2937,7 +2937,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Xangal"@eng-Latn ,
         "Хангал"@mon-Cyrl ;
-    wdata:q7200235 "MN6340" ;
+    wdata:Q7200235 "MN6340" ;
 .
 
 <urn:mdciii:1603:16:496:2:6343>
@@ -2951,7 +2951,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Xishig-O'ndor"@eng-Latn ,
         "Хишиг-өндөр"@mon-Cyrl ;
-    wdata:q7200235 "MN6343" ;
+    wdata:Q7200235 "MN6343" ;
 .
 
 <urn:mdciii:1603:16:496:2:6346>
@@ -2965,7 +2965,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Xutag-O'ndor"@eng-Latn ,
         "Хутаг-Өндөр"@mon-Cyrl ;
-    wdata:q7200235 "MN6346" ;
+    wdata:Q7200235 "MN6346" ;
 .
 
 <urn:mdciii:1603:16:496:2:6401>
@@ -2979,7 +2979,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bayanxongor"@eng-Latn ,
         "Баянхонгор"@mon-Cyrl ;
-    wdata:q7200235 "MN6401" ;
+    wdata:Q7200235 "MN6401" ;
 .
 
 <urn:mdciii:1603:16:496:2:6404>
@@ -2993,7 +2993,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Baacagaan"@eng-Latn ,
         "Баацагаан"@mon-Cyrl ;
-    wdata:q7200235 "MN6404" ;
+    wdata:Q7200235 "MN6404" ;
 .
 
 <urn:mdciii:1603:16:496:2:6407>
@@ -3007,7 +3007,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bayanbulag"@eng-Latn ,
         "Баянбулаг"@mon-Cyrl ;
-    wdata:q7200235 "MN6407" ;
+    wdata:Q7200235 "MN6407" ;
 .
 
 <urn:mdciii:1603:16:496:2:6410>
@@ -3021,7 +3021,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bayangovi"@eng-Latn ,
         "Баянговь"@mon-Cyrl ;
-    wdata:q7200235 "MN6410" ;
+    wdata:Q7200235 "MN6410" ;
 .
 
 <urn:mdciii:1603:16:496:2:6413>
@@ -3035,7 +3035,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bayanlig"@eng-Latn ,
         "Баянлиг"@mon-Cyrl ;
-    wdata:q7200235 "MN6413" ;
+    wdata:Q7200235 "MN6413" ;
 .
 
 <urn:mdciii:1603:16:496:2:6416>
@@ -3049,7 +3049,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bayan-Ovoo"@eng-Latn ,
         "Баян-Овоо"@mon-Cyrl ;
-    wdata:q7200235 "MN6416" ;
+    wdata:Q7200235 "MN6416" ;
 .
 
 <urn:mdciii:1603:16:496:2:6419>
@@ -3063,7 +3063,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bayan-O'ndor"@eng-Latn ,
         "Баян-Өндөр"@mon-Cyrl ;
-    wdata:q7200235 "MN6419" ;
+    wdata:Q7200235 "MN6419" ;
 .
 
 <urn:mdciii:1603:16:496:2:6422>
@@ -3077,7 +3077,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bayancagaan"@eng-Latn ,
         "Баянцагаан"@mon-Cyrl ;
-    wdata:q7200235 "MN6422" ;
+    wdata:Q7200235 "MN6422" ;
 .
 
 <urn:mdciii:1603:16:496:2:6425>
@@ -3091,7 +3091,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bogd"@eng-Latn ,
         "Богд"@mon-Cyrl ;
-    wdata:q7200235 "MN6425" ;
+    wdata:Q7200235 "MN6425" ;
 .
 
 <urn:mdciii:1603:16:496:2:6428>
@@ -3105,7 +3105,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bo'mbogor"@eng-Latn ,
         "Бөмбөгөр"@mon-Cyrl ;
-    wdata:q7200235 "MN6428" ;
+    wdata:Q7200235 "MN6428" ;
 .
 
 <urn:mdciii:1603:16:496:2:6431>
@@ -3119,7 +3119,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Buucagaan"@eng-Latn ,
         "Бууцагаан"@mon-Cyrl ;
-    wdata:q7200235 "MN6431" ;
+    wdata:Q7200235 "MN6431" ;
 .
 
 <urn:mdciii:1603:16:496:2:6434>
@@ -3133,7 +3133,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Galuut"@eng-Latn ,
         "Галуут"@mon-Cyrl ;
-    wdata:q7200235 "MN6434" ;
+    wdata:Q7200235 "MN6434" ;
 .
 
 <urn:mdciii:1603:16:496:2:6437>
@@ -3147,7 +3147,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Gurvanbulag"@eng-Latn ,
         "Гурванбулаг"@mon-Cyrl ;
-    wdata:q7200235 "MN6437" ;
+    wdata:Q7200235 "MN6437" ;
 .
 
 <urn:mdciii:1603:16:496:2:6440>
@@ -3161,7 +3161,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Jargalant"@eng-Latn ,
         "Жаргалант"@mon-Cyrl ;
-    wdata:q7200235 "MN6440" ;
+    wdata:Q7200235 "MN6440" ;
 .
 
 <urn:mdciii:1603:16:496:2:6443>
@@ -3175,7 +3175,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Jinst"@eng-Latn ,
         "Жинст"@mon-Cyrl ;
-    wdata:q7200235 "MN6443" ;
+    wdata:Q7200235 "MN6443" ;
 .
 
 <urn:mdciii:1603:16:496:2:6446>
@@ -3189,7 +3189,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Zag"@eng-Latn ,
         "Заг"@mon-Cyrl ;
-    wdata:q7200235 "MN6446" ;
+    wdata:Q7200235 "MN6446" ;
 .
 
 <urn:mdciii:1603:16:496:2:6449>
@@ -3203,7 +3203,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "O'lziit"@eng-Latn ,
         "Өлзийт"@mon-Cyrl ;
-    wdata:q7200235 "MN6449" ;
+    wdata:Q7200235 "MN6449" ;
 .
 
 <urn:mdciii:1603:16:496:2:6452>
@@ -3217,7 +3217,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Xu'reemaral"@eng-Latn ,
         "Хүрээмарал"@mon-Cyrl ;
-    wdata:q7200235 "MN6452" ;
+    wdata:Q7200235 "MN6452" ;
 .
 
 <urn:mdciii:1603:16:496:2:6455>
@@ -3231,7 +3231,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Shinejinst"@eng-Latn ,
         "Шинэжинст"@mon-Cyrl ;
-    wdata:q7200235 "MN6455" ;
+    wdata:Q7200235 "MN6455" ;
 .
 
 <urn:mdciii:1603:16:496:2:6458>
@@ -3245,7 +3245,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Erdenecogt"@eng-Latn ,
         "Эрдэнэцогт"@mon-Cyrl ;
-    wdata:q7200235 "MN6458" ;
+    wdata:Q7200235 "MN6458" ;
 .
 
 <urn:mdciii:1603:16:496:2:6501>
@@ -3259,7 +3259,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Erdenebulgan"@eng-Latn ,
         "Эрдэнэбулган"@mon-Cyrl ;
-    wdata:q7200235 "MN6501" ;
+    wdata:Q7200235 "MN6501" ;
 .
 
 <urn:mdciii:1603:16:496:2:6504>
@@ -3273,7 +3273,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Batcengel"@eng-Latn ,
         "Батцэнгэл"@mon-Cyrl ;
-    wdata:q7200235 "MN6504" ;
+    wdata:Q7200235 "MN6504" ;
 .
 
 <urn:mdciii:1603:16:496:2:6507>
@@ -3287,7 +3287,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bulgan"@eng-Latn ,
         "Булган"@mon-Cyrl ;
-    wdata:q7200235 "MN6507" ;
+    wdata:Q7200235 "MN6507" ;
 .
 
 <urn:mdciii:1603:16:496:2:6510>
@@ -3301,7 +3301,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Jargalant"@eng-Latn ,
         "Жаргалант"@mon-Cyrl ;
-    wdata:q7200235 "MN6510" ;
+    wdata:Q7200235 "MN6510" ;
 .
 
 <urn:mdciii:1603:16:496:2:6513>
@@ -3315,7 +3315,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Ixtamir"@eng-Latn ,
         "Их тамир"@mon-Cyrl ;
-    wdata:q7200235 "MN6513" ;
+    wdata:Q7200235 "MN6513" ;
 .
 
 <urn:mdciii:1603:16:496:2:6516>
@@ -3329,7 +3329,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "O'giinuur"@eng-Latn ,
         "Өгийнуур"@mon-Cyrl ;
-    wdata:q7200235 "MN6516" ;
+    wdata:Q7200235 "MN6516" ;
 .
 
 <urn:mdciii:1603:16:496:2:6519>
@@ -3343,7 +3343,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "O'lziit"@eng-Latn ,
         "Өлзийт"@mon-Cyrl ;
-    wdata:q7200235 "MN6519" ;
+    wdata:Q7200235 "MN6519" ;
 .
 
 <urn:mdciii:1603:16:496:2:6522>
@@ -3357,7 +3357,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "O'ndor-Ulaan"@eng-Latn ,
         "Өндөр-Улаан"@mon-Cyrl ;
-    wdata:q7200235 "MN6522" ;
+    wdata:Q7200235 "MN6522" ;
 .
 
 <urn:mdciii:1603:16:496:2:6525>
@@ -3371,7 +3371,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Tariat"@eng-Latn ,
         "Тариат"@mon-Cyrl ;
-    wdata:q7200235 "MN6525" ;
+    wdata:Q7200235 "MN6525" ;
 .
 
 <urn:mdciii:1603:16:496:2:6528>
@@ -3385,7 +3385,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "To'vshru'ulex"@eng-Latn ,
         "Төвшрүүлэх"@mon-Cyrl ;
-    wdata:q7200235 "MN6528" ;
+    wdata:Q7200235 "MN6528" ;
 .
 
 <urn:mdciii:1603:16:496:2:6531>
@@ -3399,7 +3399,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Xairxan"@eng-Latn ,
         "Хайрхан"@mon-Cyrl ;
-    wdata:q7200235 "MN6531" ;
+    wdata:Q7200235 "MN6531" ;
 .
 
 <urn:mdciii:1603:16:496:2:6534>
@@ -3413,7 +3413,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Xangai"@eng-Latn ,
         "Хангай"@mon-Cyrl ;
-    wdata:q7200235 "MN6534" ;
+    wdata:Q7200235 "MN6534" ;
 .
 
 <urn:mdciii:1603:16:496:2:6537>
@@ -3427,7 +3427,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Xashaat"@eng-Latn ,
         "Хашаат"@mon-Cyrl ;
-    wdata:q7200235 "MN6537" ;
+    wdata:Q7200235 "MN6537" ;
 .
 
 <urn:mdciii:1603:16:496:2:6540>
@@ -3441,7 +3441,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Xotont"@eng-Latn ,
         "Хотонт"@mon-Cyrl ;
-    wdata:q7200235 "MN6540" ;
+    wdata:Q7200235 "MN6540" ;
 .
 
 <urn:mdciii:1603:16:496:2:6543>
@@ -3455,7 +3455,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Caxir"@eng-Latn ,
         "Цахир"@mon-Cyrl ;
-    wdata:q7200235 "MN6543" ;
+    wdata:Q7200235 "MN6543" ;
 .
 
 <urn:mdciii:1603:16:496:2:6546>
@@ -3469,7 +3469,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Cenxer"@eng-Latn ,
         "Цэнхэр"@mon-Cyrl ;
-    wdata:q7200235 "MN6546" ;
+    wdata:Q7200235 "MN6546" ;
 .
 
 <urn:mdciii:1603:16:496:2:6549>
@@ -3483,7 +3483,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Cecerleg"@eng-Latn ,
         "Цэцэрлэг"@mon-Cyrl ;
-    wdata:q7200235 "MN6549" ;
+    wdata:Q7200235 "MN6549" ;
 .
 
 <urn:mdciii:1603:16:496:2:6552>
@@ -3497,7 +3497,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Chuluut"@eng-Latn ,
         "Чулуут"@mon-Cyrl ;
-    wdata:q7200235 "MN6552" ;
+    wdata:Q7200235 "MN6552" ;
 .
 
 <urn:mdciii:1603:16:496:2:6555>
@@ -3511,7 +3511,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Erdenemandal"@eng-Latn ,
         "Эрдэнэмандал"@mon-Cyrl ;
-    wdata:q7200235 "MN6555" ;
+    wdata:Q7200235 "MN6555" ;
 .
 
 <urn:mdciii:1603:16:496:2:6701>
@@ -3525,7 +3525,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Mo'ron"@eng-Latn ,
         "Мөрөн"@mon-Cyrl ;
-    wdata:q7200235 "MN6701" ;
+    wdata:Q7200235 "MN6701" ;
 .
 
 <urn:mdciii:1603:16:496:2:6704>
@@ -3539,7 +3539,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Alag-Erdene"@eng-Latn ,
         "Алаг-Эрдэнэ"@mon-Cyrl ;
-    wdata:q7200235 "MN6704" ;
+    wdata:Q7200235 "MN6704" ;
 .
 
 <urn:mdciii:1603:16:496:2:6707>
@@ -3553,7 +3553,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Arbulag"@eng-Latn ,
         "Арбулаг"@mon-Cyrl ;
-    wdata:q7200235 "MN6707" ;
+    wdata:Q7200235 "MN6707" ;
 .
 
 <urn:mdciii:1603:16:496:2:6710>
@@ -3567,7 +3567,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bayanzu'rx"@eng-Latn ,
         "Баянзүрх"@mon-Cyrl ;
-    wdata:q7200235 "MN6710" ;
+    wdata:Q7200235 "MN6710" ;
 .
 
 <urn:mdciii:1603:16:496:2:6713>
@@ -3581,7 +3581,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bu'rentogtox"@eng-Latn ,
         "Бүрэнтогтох"@mon-Cyrl ;
-    wdata:q7200235 "MN6713" ;
+    wdata:Q7200235 "MN6713" ;
 .
 
 <urn:mdciii:1603:16:496:2:6716>
@@ -3595,7 +3595,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Galt"@eng-Latn ,
         "Галт"@mon-Cyrl ;
-    wdata:q7200235 "MN6716" ;
+    wdata:Q7200235 "MN6716" ;
 .
 
 <urn:mdciii:1603:16:496:2:6719>
@@ -3609,7 +3609,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Jargalant"@eng-Latn ,
         "Жаргалант"@mon-Cyrl ;
-    wdata:q7200235 "MN6719" ;
+    wdata:Q7200235 "MN6719" ;
 .
 
 <urn:mdciii:1603:16:496:2:6722>
@@ -3623,7 +3623,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Ix-Uul"@eng-Latn ,
         "Их-Уул"@mon-Cyrl ;
-    wdata:q7200235 "MN6722" ;
+    wdata:Q7200235 "MN6722" ;
 .
 
 <urn:mdciii:1603:16:496:2:6725>
@@ -3637,7 +3637,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Rashaant"@eng-Latn ,
         "Рашаант"@mon-Cyrl ;
-    wdata:q7200235 "MN6725" ;
+    wdata:Q7200235 "MN6725" ;
 .
 
 <urn:mdciii:1603:16:496:2:6728>
@@ -3651,7 +3651,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Renchinlxu'mbe"@eng-Latn ,
         "Рэнчинлхүмбэ"@mon-Cyrl ;
-    wdata:q7200235 "MN6728" ;
+    wdata:Q7200235 "MN6728" ;
 .
 
 <urn:mdciii:1603:16:496:2:6731>
@@ -3665,7 +3665,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Tarialan"@eng-Latn ,
         "Тариалан"@mon-Cyrl ;
-    wdata:q7200235 "MN6731" ;
+    wdata:Q7200235 "MN6731" ;
 .
 
 <urn:mdciii:1603:16:496:2:6734>
@@ -3679,7 +3679,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Tosoncengel"@eng-Latn ,
         "Тосонцэнгэл"@mon-Cyrl ;
-    wdata:q7200235 "MN6734" ;
+    wdata:Q7200235 "MN6734" ;
 .
 
 <urn:mdciii:1603:16:496:2:6737>
@@ -3693,7 +3693,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "To'morbulag"@eng-Latn ,
         "Төмөрбулаг"@mon-Cyrl ;
-    wdata:q7200235 "MN6737" ;
+    wdata:Q7200235 "MN6737" ;
 .
 
 <urn:mdciii:1603:16:496:2:6740>
@@ -3707,7 +3707,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Tu'nel"@eng-Latn ,
         "Түнэл"@mon-Cyrl ;
-    wdata:q7200235 "MN6740" ;
+    wdata:Q7200235 "MN6740" ;
 .
 
 <urn:mdciii:1603:16:496:2:6743>
@@ -3721,7 +3721,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Ulaan uul"@eng-Latn ,
         "Улаан-Уул"@mon-Cyrl ;
-    wdata:q7200235 "MN6743" ;
+    wdata:Q7200235 "MN6743" ;
 .
 
 <urn:mdciii:1603:16:496:2:6746>
@@ -3735,7 +3735,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Xanx"@eng-Latn ,
         "Ханх"@mon-Cyrl ;
-    wdata:q7200235 "MN6746" ;
+    wdata:Q7200235 "MN6746" ;
 .
 
 <urn:mdciii:1603:16:496:2:6749>
@@ -3749,7 +3749,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Cagaannuur"@eng-Latn ,
         "Цагааннуур"@mon-Cyrl ;
-    wdata:q7200235 "MN6749" ;
+    wdata:Q7200235 "MN6749" ;
 .
 
 <urn:mdciii:1603:16:496:2:6752>
@@ -3763,7 +3763,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Cagaan-Uul"@eng-Latn ,
         "Цагаан-Уул"@mon-Cyrl ;
-    wdata:q7200235 "MN6752" ;
+    wdata:Q7200235 "MN6752" ;
 .
 
 <urn:mdciii:1603:16:496:2:6755>
@@ -3777,7 +3777,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Cagaan-U'ur"@eng-Latn ,
         "Цагаан-Үүр"@mon-Cyrl ;
-    wdata:q7200235 "MN6755" ;
+    wdata:Q7200235 "MN6755" ;
 .
 
 <urn:mdciii:1603:16:496:2:6758>
@@ -3791,7 +3791,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Cecerleg"@eng-Latn ,
         "Цэцэрлэг"@mon-Cyrl ;
-    wdata:q7200235 "MN6758" ;
+    wdata:Q7200235 "MN6758" ;
 .
 
 <urn:mdciii:1603:16:496:2:6761>
@@ -3805,7 +3805,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Chandmani-O'ndor"@eng-Latn ,
         "Чандмань-Өндөр"@mon-Cyrl ;
-    wdata:q7200235 "MN6761" ;
+    wdata:Q7200235 "MN6761" ;
 .
 
 <urn:mdciii:1603:16:496:2:6764>
@@ -3819,7 +3819,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Shine-Ider"@eng-Latn ,
         "Шинэ-Идэр"@mon-Cyrl ;
-    wdata:q7200235 "MN6764" ;
+    wdata:Q7200235 "MN6764" ;
 .
 
 <urn:mdciii:1603:16:496:2:6767>
@@ -3833,7 +3833,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Erdenebulgan"@eng-Latn ,
         "Эрдэнэбулган"@mon-Cyrl ;
-    wdata:q7200235 "MN6767" ;
+    wdata:Q7200235 "MN6767" ;
 .
 
 <urn:mdciii:1603:16:496:2:8101>
@@ -3847,7 +3847,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Uliastai"@eng-Latn ,
         "Улиастай"@mon-Cyrl ;
-    wdata:q7200235 "MN8101" ;
+    wdata:Q7200235 "MN8101" ;
 .
 
 <urn:mdciii:1603:16:496:2:8104>
@@ -3861,7 +3861,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Aldarxaan"@eng-Latn ,
         "Алдархаан"@mon-Cyrl ;
-    wdata:q7200235 "MN8104" ;
+    wdata:Q7200235 "MN8104" ;
 .
 
 <urn:mdciii:1603:16:496:2:8107>
@@ -3875,7 +3875,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Asgat"@eng-Latn ,
         "Асгат"@mon-Cyrl ;
-    wdata:q7200235 "MN8107" ;
+    wdata:Q7200235 "MN8107" ;
 .
 
 <urn:mdciii:1603:16:496:2:8110>
@@ -3889,7 +3889,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bayantes"@eng-Latn ,
         "Баянтэс"@mon-Cyrl ;
-    wdata:q7200235 "MN8110" ;
+    wdata:Q7200235 "MN8110" ;
 .
 
 <urn:mdciii:1603:16:496:2:8113>
@@ -3903,7 +3903,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bayanxairxan"@eng-Latn ,
         "Баянхайрхан"@mon-Cyrl ;
-    wdata:q7200235 "MN8113" ;
+    wdata:Q7200235 "MN8113" ;
 .
 
 <urn:mdciii:1603:16:496:2:8116>
@@ -3917,7 +3917,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Do'rvoljin"@eng-Latn ,
         "Дөрвөлжин"@mon-Cyrl ;
-    wdata:q7200235 "MN8116" ;
+    wdata:Q7200235 "MN8116" ;
 .
 
 <urn:mdciii:1603:16:496:2:8119>
@@ -3931,7 +3931,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Zavxanmandal"@eng-Latn ,
         "Завханмандал"@mon-Cyrl ;
-    wdata:q7200235 "MN8119" ;
+    wdata:Q7200235 "MN8119" ;
 .
 
 <urn:mdciii:1603:16:496:2:8122>
@@ -3945,7 +3945,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Ider"@eng-Latn ,
         "Идэр"@mon-Cyrl ;
-    wdata:q7200235 "MN8122" ;
+    wdata:Q7200235 "MN8122" ;
 .
 
 <urn:mdciii:1603:16:496:2:8125>
@@ -3959,7 +3959,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Ix-Uul"@eng-Latn ,
         "Их-Уул"@mon-Cyrl ;
-    wdata:q7200235 "MN8125" ;
+    wdata:Q7200235 "MN8125" ;
 .
 
 <urn:mdciii:1603:16:496:2:8128>
@@ -3973,7 +3973,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "No'mrog"@eng-Latn ,
         "Нөмрөг"@mon-Cyrl ;
-    wdata:q7200235 "MN8128" ;
+    wdata:Q7200235 "MN8128" ;
 .
 
 <urn:mdciii:1603:16:496:2:8131>
@@ -3987,7 +3987,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Otgon"@eng-Latn ,
         "Отгон"@mon-Cyrl ;
-    wdata:q7200235 "MN8131" ;
+    wdata:Q7200235 "MN8131" ;
 .
 
 <urn:mdciii:1603:16:496:2:8134>
@@ -4001,7 +4001,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Santmargac"@eng-Latn ,
         "Сантмаргац"@mon-Cyrl ;
-    wdata:q7200235 "MN8134" ;
+    wdata:Q7200235 "MN8134" ;
 .
 
 <urn:mdciii:1603:16:496:2:8137>
@@ -4015,7 +4015,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Songino"@eng-Latn ,
         "Сонгино"@mon-Cyrl ;
-    wdata:q7200235 "MN8137" ;
+    wdata:Q7200235 "MN8137" ;
 .
 
 <urn:mdciii:1603:16:496:2:8140>
@@ -4029,7 +4029,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Tosoncengel"@eng-Latn ,
         "Тосонцэнгэл"@mon-Cyrl ;
-    wdata:q7200235 "MN8140" ;
+    wdata:Q7200235 "MN8140" ;
 .
 
 <urn:mdciii:1603:16:496:2:8143>
@@ -4043,7 +4043,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Tu'devtei"@eng-Latn ,
         "Түдэвтэй"@mon-Cyrl ;
-    wdata:q7200235 "MN8143" ;
+    wdata:Q7200235 "MN8143" ;
 .
 
 <urn:mdciii:1603:16:496:2:8146>
@@ -4057,7 +4057,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Telmen"@eng-Latn ,
         "Тэлмэн"@mon-Cyrl ;
-    wdata:q7200235 "MN8146" ;
+    wdata:Q7200235 "MN8146" ;
 .
 
 <urn:mdciii:1603:16:496:2:8149>
@@ -4071,7 +4071,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Tes"@eng-Latn ,
         "Тэс"@mon-Cyrl ;
-    wdata:q7200235 "MN8149" ;
+    wdata:Q7200235 "MN8149" ;
 .
 
 <urn:mdciii:1603:16:496:2:8152>
@@ -4085,7 +4085,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Urgamal"@eng-Latn ,
         "Ургамал"@mon-Cyrl ;
-    wdata:q7200235 "MN8152" ;
+    wdata:Q7200235 "MN8152" ;
 .
 
 <urn:mdciii:1603:16:496:2:8155>
@@ -4099,7 +4099,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Cagaanxairxan"@eng-Latn ,
         "Цагаанхайрхан"@mon-Cyrl ;
-    wdata:q7200235 "MN8155" ;
+    wdata:Q7200235 "MN8155" ;
 .
 
 <urn:mdciii:1603:16:496:2:8158>
@@ -4113,7 +4113,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Cagaanchuluut"@eng-Latn ,
         "Цагаанчулуут"@mon-Cyrl ;
-    wdata:q7200235 "MN8158" ;
+    wdata:Q7200235 "MN8158" ;
 .
 
 <urn:mdciii:1603:16:496:2:8161>
@@ -4127,7 +4127,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Cecen-Uul"@eng-Latn ,
         "Цэцэн-Уул"@mon-Cyrl ;
-    wdata:q7200235 "MN8161" ;
+    wdata:Q7200235 "MN8161" ;
 .
 
 <urn:mdciii:1603:16:496:2:8164>
@@ -4141,7 +4141,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Shilu'ustei"@eng-Latn ,
         "Шилүүстэй"@mon-Cyrl ;
-    wdata:q7200235 "MN8164" ;
+    wdata:Q7200235 "MN8164" ;
 .
 
 <urn:mdciii:1603:16:496:2:8167>
@@ -4155,7 +4155,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Erdenexairxan"@eng-Latn ,
         "Эрдэнэхайрхан"@mon-Cyrl ;
-    wdata:q7200235 "MN8167" ;
+    wdata:Q7200235 "MN8167" ;
 .
 
 <urn:mdciii:1603:16:496:2:8170>
@@ -4169,7 +4169,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Yaruu"@eng-Latn ,
         "Яруу"@mon-Cyrl ;
-    wdata:q7200235 "MN8170" ;
+    wdata:Q7200235 "MN8170" ;
 .
 
 <urn:mdciii:1603:16:496:2:8201>
@@ -4183,7 +4183,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Yeso'nbulag"@eng-Latn ,
         "Есөнбулаг"@mon-Cyrl ;
-    wdata:q7200235 "MN8201" ;
+    wdata:Q7200235 "MN8201" ;
 .
 
 <urn:mdciii:1603:16:496:2:8204>
@@ -4197,7 +4197,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Altai"@eng-Latn ,
         "Алтай"@mon-Cyrl ;
-    wdata:q7200235 "MN8204" ;
+    wdata:Q7200235 "MN8204" ;
 .
 
 <urn:mdciii:1603:16:496:2:8207>
@@ -4211,7 +4211,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bayan-Uul"@eng-Latn ,
         "Баян-Уул"@mon-Cyrl ;
-    wdata:q7200235 "MN8207" ;
+    wdata:Q7200235 "MN8207" ;
 .
 
 <urn:mdciii:1603:16:496:2:8210>
@@ -4225,7 +4225,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Biger"@eng-Latn ,
         "Бигэр"@mon-Cyrl ;
-    wdata:q7200235 "MN8210" ;
+    wdata:Q7200235 "MN8210" ;
 .
 
 <urn:mdciii:1603:16:496:2:8213>
@@ -4239,7 +4239,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bugat"@eng-Latn ,
         "Бугат"@mon-Cyrl ;
-    wdata:q7200235 "MN8213" ;
+    wdata:Q7200235 "MN8213" ;
 .
 
 <urn:mdciii:1603:16:496:2:8216>
@@ -4253,7 +4253,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Darvi"@eng-Latn ,
         "Дарив"@mon-Cyrl ;
-    wdata:q7200235 "MN8216" ;
+    wdata:Q7200235 "MN8216" ;
 .
 
 <urn:mdciii:1603:16:496:2:8219>
@@ -4267,7 +4267,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Delger"@eng-Latn ,
         "Дэлгэр"@mon-Cyrl ;
-    wdata:q7200235 "MN8219" ;
+    wdata:Q7200235 "MN8219" ;
 .
 
 <urn:mdciii:1603:16:496:2:8222>
@@ -4281,7 +4281,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Jargalan"@eng-Latn ,
         "Жаргалан"@mon-Cyrl ;
-    wdata:q7200235 "MN8222" ;
+    wdata:Q7200235 "MN8222" ;
 .
 
 <urn:mdciii:1603:16:496:2:8225>
@@ -4295,7 +4295,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Taishir"@eng-Latn ,
         "Тайшир"@mon-Cyrl ;
-    wdata:q7200235 "MN8225" ;
+    wdata:Q7200235 "MN8225" ;
 .
 
 <urn:mdciii:1603:16:496:2:8228>
@@ -4309,7 +4309,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Tonkhil"@eng-Latn ,
         "Тонхил"@mon-Cyrl ;
-    wdata:q7200235 "MN8228" ;
+    wdata:Q7200235 "MN8228" ;
 .
 
 <urn:mdciii:1603:16:496:2:8231>
@@ -4323,7 +4323,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "To'grog"@eng-Latn ,
         "Төгрөг"@mon-Cyrl ;
-    wdata:q7200235 "MN8231" ;
+    wdata:Q7200235 "MN8231" ;
 .
 
 <urn:mdciii:1603:16:496:2:8234>
@@ -4337,7 +4337,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Xaliun"@eng-Latn ,
         "Халиун"@mon-Cyrl ;
-    wdata:q7200235 "MN8234" ;
+    wdata:Q7200235 "MN8234" ;
 .
 
 <urn:mdciii:1603:16:496:2:8237>
@@ -4351,7 +4351,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Xo'xmorit"@eng-Latn ,
         "Хөхморьт"@mon-Cyrl ;
-    wdata:q7200235 "MN8237" ;
+    wdata:Q7200235 "MN8237" ;
 .
 
 <urn:mdciii:1603:16:496:2:8240>
@@ -4365,7 +4365,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Cogt"@eng-Latn ,
         "Цогт"@mon-Cyrl ;
-    wdata:q7200235 "MN8240" ;
+    wdata:Q7200235 "MN8240" ;
 .
 
 <urn:mdciii:1603:16:496:2:8243>
@@ -4379,7 +4379,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Ceel"@eng-Latn ,
         "Цээл"@mon-Cyrl ;
-    wdata:q7200235 "MN8243" ;
+    wdata:Q7200235 "MN8243" ;
 .
 
 <urn:mdciii:1603:16:496:2:8246>
@@ -4393,7 +4393,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Chandmani"@eng-Latn ,
         "Чандмань"@mon-Cyrl ;
-    wdata:q7200235 "MN8246" ;
+    wdata:Q7200235 "MN8246" ;
 .
 
 <urn:mdciii:1603:16:496:2:8249>
@@ -4407,7 +4407,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Sharga"@eng-Latn ,
         "Шарга"@mon-Cyrl ;
-    wdata:q7200235 "MN8249" ;
+    wdata:Q7200235 "MN8249" ;
 .
 
 <urn:mdciii:1603:16:496:2:8252>
@@ -4421,7 +4421,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Erdene"@eng-Latn ,
         "Эрдэнэ"@mon-Cyrl ;
-    wdata:q7200235 "MN8252" ;
+    wdata:Q7200235 "MN8252" ;
 .
 
 <urn:mdciii:1603:16:496:2:8301>
@@ -4435,7 +4435,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "O'lgii"@eng-Latn ,
         "Өлгий"@mon-Cyrl ;
-    wdata:q7200235 "MN8301" ;
+    wdata:Q7200235 "MN8301" ;
 .
 
 <urn:mdciii:1603:16:496:2:8304>
@@ -4449,7 +4449,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Altai"@eng-Latn ,
         "Алтай"@mon-Cyrl ;
-    wdata:q7200235 "MN8304" ;
+    wdata:Q7200235 "MN8304" ;
 .
 
 <urn:mdciii:1603:16:496:2:8307>
@@ -4463,7 +4463,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Altanco'gc"@eng-Latn ,
         "Алтанцөгц"@mon-Cyrl ;
-    wdata:q7200235 "MN8307" ;
+    wdata:Q7200235 "MN8307" ;
 .
 
 <urn:mdciii:1603:16:496:2:8310>
@@ -4477,7 +4477,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bayannuur"@eng-Latn ,
         "Баяннуур"@mon-Cyrl ;
-    wdata:q7200235 "MN8310" ;
+    wdata:Q7200235 "MN8310" ;
 .
 
 <urn:mdciii:1603:16:496:2:8313>
@@ -4491,7 +4491,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bugat"@eng-Latn ,
         "Бугат"@mon-Cyrl ;
-    wdata:q7200235 "MN8313" ;
+    wdata:Q7200235 "MN8313" ;
 .
 
 <urn:mdciii:1603:16:496:2:8316>
@@ -4505,7 +4505,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bulgan"@eng-Latn ,
         "Булган"@mon-Cyrl ;
-    wdata:q7200235 "MN8316" ;
+    wdata:Q7200235 "MN8316" ;
 .
 
 <urn:mdciii:1603:16:496:2:8319>
@@ -4519,7 +4519,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Buyant"@eng-Latn ,
         "Буянт"@mon-Cyrl ;
-    wdata:q7200235 "MN8319" ;
+    wdata:Q7200235 "MN8319" ;
 .
 
 <urn:mdciii:1603:16:496:2:8322>
@@ -4533,7 +4533,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Delu'un"@eng-Latn ,
         "Дэлүүн"@mon-Cyrl ;
-    wdata:q7200235 "MN8322" ;
+    wdata:Q7200235 "MN8322" ;
 .
 
 <urn:mdciii:1603:16:496:2:8325>
@@ -4547,7 +4547,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Nogoonnuur"@eng-Latn ,
         "Ногооннуур"@mon-Cyrl ;
-    wdata:q7200235 "MN8325" ;
+    wdata:Q7200235 "MN8325" ;
 .
 
 <urn:mdciii:1603:16:496:2:8328>
@@ -4561,7 +4561,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Sagsai"@eng-Latn ,
         "Сагсай"@mon-Cyrl ;
-    wdata:q7200235 "MN8328" ;
+    wdata:Q7200235 "MN8328" ;
 .
 
 <urn:mdciii:1603:16:496:2:8331>
@@ -4575,7 +4575,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Tolbo"@eng-Latn ,
         "Толбо"@mon-Cyrl ;
-    wdata:q7200235 "MN8331" ;
+    wdata:Q7200235 "MN8331" ;
 .
 
 <urn:mdciii:1603:16:496:2:8334>
@@ -4589,7 +4589,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Ulaanxus"@eng-Latn ,
         "Улаанхус"@mon-Cyrl ;
-    wdata:q7200235 "MN8334" ;
+    wdata:Q7200235 "MN8334" ;
 .
 
 <urn:mdciii:1603:16:496:2:8340>
@@ -4603,7 +4603,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Cengel"@eng-Latn ,
         "Цэнгэл"@mon-Cyrl ;
-    wdata:q7200235 "MN8340" ;
+    wdata:Q7200235 "MN8340" ;
 .
 
 <urn:mdciii:1603:16:496:2:8401>
@@ -4617,7 +4617,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Jargalant"@eng-Latn ,
         "Жаргалант"@mon-Cyrl ;
-    wdata:q7200235 "MN8401" ;
+    wdata:Q7200235 "MN8401" ;
 .
 
 <urn:mdciii:1603:16:496:2:8404>
@@ -4631,7 +4631,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Altai"@eng-Latn ,
         "Алтай"@mon-Cyrl ;
-    wdata:q7200235 "MN8404" ;
+    wdata:Q7200235 "MN8404" ;
 .
 
 <urn:mdciii:1603:16:496:2:8407>
@@ -4645,7 +4645,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bulgan"@eng-Latn ,
         "Булган"@mon-Cyrl ;
-    wdata:q7200235 "MN8407" ;
+    wdata:Q7200235 "MN8407" ;
 .
 
 <urn:mdciii:1603:16:496:2:8410>
@@ -4659,7 +4659,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Buyant"@eng-Latn ,
         "Буянт"@mon-Cyrl ;
-    wdata:q7200235 "MN8410" ;
+    wdata:Q7200235 "MN8410" ;
 .
 
 <urn:mdciii:1603:16:496:2:8413>
@@ -4673,7 +4673,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Darvi"@eng-Latn ,
         "Дарви"@mon-Cyrl ;
-    wdata:q7200235 "MN8413" ;
+    wdata:Q7200235 "MN8413" ;
 .
 
 <urn:mdciii:1603:16:496:2:8416>
@@ -4687,7 +4687,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Do'rgon"@eng-Latn ,
         "Дөргөн"@mon-Cyrl ;
-    wdata:q7200235 "MN8416" ;
+    wdata:Q7200235 "MN8416" ;
 .
 
 <urn:mdciii:1603:16:496:2:8419>
@@ -4701,7 +4701,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Duut"@eng-Latn ,
         "Дуут"@mon-Cyrl ;
-    wdata:q7200235 "MN8419" ;
+    wdata:Q7200235 "MN8419" ;
 .
 
 <urn:mdciii:1603:16:496:2:8422>
@@ -4715,7 +4715,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Zereg"@eng-Latn ,
         "Зэрэг"@mon-Cyrl ;
-    wdata:q7200235 "MN8422" ;
+    wdata:Q7200235 "MN8422" ;
 .
 
 <urn:mdciii:1603:16:496:2:8425>
@@ -4729,7 +4729,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Manxan"@eng-Latn ,
         "Манхан"@mon-Cyrl ;
-    wdata:q7200235 "MN8425" ;
+    wdata:Q7200235 "MN8425" ;
 .
 
 <urn:mdciii:1603:16:496:2:8428>
@@ -4743,7 +4743,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Mo'nxxairxan"@eng-Latn ,
         "Мөнххайрхан"@mon-Cyrl ;
-    wdata:q7200235 "MN8428" ;
+    wdata:Q7200235 "MN8428" ;
 .
 
 <urn:mdciii:1603:16:496:2:8431>
@@ -4757,7 +4757,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Mo'st"@eng-Latn ,
         "Мөст"@mon-Cyrl ;
-    wdata:q7200235 "MN8431" ;
+    wdata:Q7200235 "MN8431" ;
 .
 
 <urn:mdciii:1603:16:496:2:8434>
@@ -4771,7 +4771,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Myangad"@eng-Latn ,
         "Мянгад"@mon-Cyrl ;
-    wdata:q7200235 "MN8434" ;
+    wdata:Q7200235 "MN8434" ;
 .
 
 <urn:mdciii:1603:16:496:2:8437>
@@ -4785,7 +4785,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "U'yench"@eng-Latn ,
         "Үенч"@mon-Cyrl ;
-    wdata:q7200235 "MN8437" ;
+    wdata:Q7200235 "MN8437" ;
 .
 
 <urn:mdciii:1603:16:496:2:8440>
@@ -4799,7 +4799,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Xovd"@eng-Latn ,
         "Ховд"@mon-Cyrl ;
-    wdata:q7200235 "MN8440" ;
+    wdata:Q7200235 "MN8440" ;
 .
 
 <urn:mdciii:1603:16:496:2:8443>
@@ -4813,7 +4813,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Ceceg"@eng-Latn ,
         "Цэцэг"@mon-Cyrl ;
-    wdata:q7200235 "MN8443" ;
+    wdata:Q7200235 "MN8443" ;
 .
 
 <urn:mdciii:1603:16:496:2:8446>
@@ -4827,7 +4827,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Chandmani"@eng-Latn ,
         "Чандмань"@mon-Cyrl ;
-    wdata:q7200235 "MN8446" ;
+    wdata:Q7200235 "MN8446" ;
 .
 
 <urn:mdciii:1603:16:496:2:8449>
@@ -4841,7 +4841,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Erdenebu'ren"@eng-Latn ,
         "Эрдэнэбүрэн"@mon-Cyrl ;
-    wdata:q7200235 "MN8449" ;
+    wdata:Q7200235 "MN8449" ;
 .
 
 <urn:mdciii:1603:16:496:2:8501>
@@ -4855,7 +4855,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Ulaangom"@eng-Latn ,
         "Улаангом"@mon-Cyrl ;
-    wdata:q7200235 "MN8501" ;
+    wdata:Q7200235 "MN8501" ;
 .
 
 <urn:mdciii:1603:16:496:2:8504>
@@ -4869,7 +4869,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Baruunturuun"@eng-Latn ,
         "Баруунтуруун"@mon-Cyrl ;
-    wdata:q7200235 "MN8504" ;
+    wdata:Q7200235 "MN8504" ;
 .
 
 <urn:mdciii:1603:16:496:2:8507>
@@ -4883,7 +4883,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bo'xmoron"@eng-Latn ,
         "Бөхмөрөн"@mon-Cyrl ;
-    wdata:q7200235 "MN8507" ;
+    wdata:Q7200235 "MN8507" ;
 .
 
 <urn:mdciii:1603:16:496:2:8510>
@@ -4897,7 +4897,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Davst"@eng-Latn ,
         "Давст"@mon-Cyrl ;
-    wdata:q7200235 "MN8510" ;
+    wdata:Q7200235 "MN8510" ;
 .
 
 <urn:mdciii:1603:16:496:2:8513>
@@ -4911,7 +4911,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Zavxan"@eng-Latn ,
         "Завхан"@mon-Cyrl ;
-    wdata:q7200235 "MN8513" ;
+    wdata:Q7200235 "MN8513" ;
 .
 
 <urn:mdciii:1603:16:496:2:8516>
@@ -4925,7 +4925,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Zu'ungovi"@eng-Latn ,
         "Зүүнговь"@mon-Cyrl ;
-    wdata:q7200235 "MN8516" ;
+    wdata:Q7200235 "MN8516" ;
 .
 
 <urn:mdciii:1603:16:496:2:8519>
@@ -4939,7 +4939,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Zu'unxangai"@eng-Latn ,
         "Зүүнхангай"@mon-Cyrl ;
-    wdata:q7200235 "MN8519" ;
+    wdata:Q7200235 "MN8519" ;
 .
 
 <urn:mdciii:1603:16:496:2:8522>
@@ -4953,7 +4953,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Malchin"@eng-Latn ,
         "Малчин"@mon-Cyrl ;
-    wdata:q7200235 "MN8522" ;
+    wdata:Q7200235 "MN8522" ;
 .
 
 <urn:mdciii:1603:16:496:2:8525>
@@ -4967,7 +4967,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Naranbulag"@eng-Latn ,
         "Наранбулаг"@mon-Cyrl ;
-    wdata:q7200235 "MN8525" ;
+    wdata:Q7200235 "MN8525" ;
 .
 
 <urn:mdciii:1603:16:496:2:8528>
@@ -4981,7 +4981,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "O'lgii"@eng-Latn ,
         "Өлгий"@mon-Cyrl ;
-    wdata:q7200235 "MN8528" ;
+    wdata:Q7200235 "MN8528" ;
 .
 
 <urn:mdciii:1603:16:496:2:8531>
@@ -4995,7 +4995,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "O'mnogovi"@eng-Latn ,
         "Өмнөгөвь"@mon-Cyrl ;
-    wdata:q7200235 "MN8531" ;
+    wdata:Q7200235 "MN8531" ;
 .
 
 <urn:mdciii:1603:16:496:2:8534>
@@ -5009,7 +5009,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "O'ndorxangai"@eng-Latn ,
         "Өндөрхангай"@mon-Cyrl ;
-    wdata:q7200235 "MN8534" ;
+    wdata:Q7200235 "MN8534" ;
 .
 
 <urn:mdciii:1603:16:496:2:8537>
@@ -5023,7 +5023,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Sagil"@eng-Latn ,
         "Сагил"@mon-Cyrl ;
-    wdata:q7200235 "MN8537" ;
+    wdata:Q7200235 "MN8537" ;
 .
 
 <urn:mdciii:1603:16:496:2:8540>
@@ -5037,7 +5037,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Tarialan"@eng-Latn ,
         "Тариалан"@mon-Cyrl ;
-    wdata:q7200235 "MN8540" ;
+    wdata:Q7200235 "MN8540" ;
 .
 
 <urn:mdciii:1603:16:496:2:8543>
@@ -5051,7 +5051,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Tu'rgen"@eng-Latn ,
         "Түргэн"@mon-Cyrl ;
-    wdata:q7200235 "MN8543" ;
+    wdata:Q7200235 "MN8543" ;
 .
 
 <urn:mdciii:1603:16:496:2:8546>
@@ -5065,7 +5065,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Tes"@eng-Latn ,
         "Тэс"@mon-Cyrl ;
-    wdata:q7200235 "MN8546" ;
+    wdata:Q7200235 "MN8546" ;
 .
 
 <urn:mdciii:1603:16:496:2:8549>
@@ -5079,7 +5079,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Xovd"@eng-Latn ,
         "Ховд"@mon-Cyrl ;
-    wdata:q7200235 "MN8549" ;
+    wdata:Q7200235 "MN8549" ;
 .
 
 <urn:mdciii:1603:16:496:2:8552>
@@ -5093,7 +5093,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Xyargas"@eng-Latn ,
         "Хяргас"@mon-Cyrl ;
-    wdata:q7200235 "MN8552" ;
+    wdata:Q7200235 "MN8552" ;
 .
 
 <urn:mdciii:1603:16:496:2:8555>
@@ -5107,6 +5107,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Cagaanxairxan"@eng-Latn ,
         "Цагаанхайрхан"@mon-Cyrl ;
-    wdata:q7200235 "MN8555" ;
+    wdata:Q7200235 "MN8555" ;
 .
 

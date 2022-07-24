@@ -1,7 +1,6 @@
 PREFIX owl: <http://www.w3.org/2002/07/owl#>
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
-PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
 
 <urn:mdciii:1603:16:496()>
     a skos:Collection ;
@@ -22,7 +21,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Ulaanbaatar"@eng-Latn ,
         "Улаанбаатар"@mon-Cyrl ;
-    wdata:q7200235 "MN11" ;
 .
 
 <urn:mdciii:1603:16()>
@@ -65,7 +63,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Dornod"@eng-Latn ,
         "Дорнод"@mon-Cyrl ;
-    wdata:q7200235 "MN21" ;
 .
 
 <urn:mdciii:1603:16:496:1:22>
@@ -76,7 +73,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Sukhbaatar"@eng-Latn ,
         "Сүхбаатар"@mon-Cyrl ;
-    wdata:q7200235 "MN22" ;
 .
 
 <urn:mdciii:1603:16:496:1:23>
@@ -87,7 +83,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Hentii"@eng-Latn ,
         "Хэнтий"@mon-Cyrl ;
-    wdata:q7200235 "MN23" ;
 .
 
 <urn:mdciii:1603:16:496:1:41>
@@ -98,7 +93,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "To'v"@eng-Latn ,
         "Төв"@mon-Cyrl ;
-    wdata:q7200235 "MN41" ;
 .
 
 <urn:mdciii:1603:16:496:1:42>
@@ -109,7 +103,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Govisumber"@eng-Latn ,
         "Говьсүмбэр"@mon-Cyrl ;
-    wdata:q7200235 "MN42" ;
 .
 
 <urn:mdciii:1603:16:496:1:43>
@@ -120,7 +113,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Selenge"@eng-Latn ,
         "Сэлэнгэ"@mon-Cyrl ;
-    wdata:q7200235 "MN43" ;
 .
 
 <urn:mdciii:1603:16:496:1:44>
@@ -131,7 +123,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Dornogovi"@eng-Latn ,
         "Дорноговь"@mon-Cyrl ;
-    wdata:q7200235 "MN44" ;
 .
 
 <urn:mdciii:1603:16:496:1:45>
@@ -142,7 +133,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Darkhan-Uul"@eng-Latn ,
         "Дархан-Уул"@mon-Cyrl ;
-    wdata:q7200235 "MN45" ;
 .
 
 <urn:mdciii:1603:16:496:1:46>
@@ -153,7 +143,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Omnogovi"@eng-Latn ,
         "Өмнөговь"@mon-Cyrl ;
-    wdata:q7200235 "MN46" ;
 .
 
 <urn:mdciii:1603:16:496:1:48>
@@ -164,7 +153,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Dundgovi"@eng-Latn ,
         "Дундговь"@mon-Cyrl ;
-    wdata:q7200235 "MN48" ;
 .
 
 <urn:mdciii:1603:16:496:1:61>
@@ -175,7 +163,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Orkhon"@eng-Latn ,
         "Орхон"@mon-Cyrl ;
-    wdata:q7200235 "MN61" ;
 .
 
 <urn:mdciii:1603:16:496:1:62>
@@ -186,7 +173,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Ovorkhangai"@eng-Latn ,
         "Өвөрхангай"@mon-Cyrl ;
-    wdata:q7200235 "MN62" ;
 .
 
 <urn:mdciii:1603:16:496:1:63>
@@ -197,7 +183,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bulgan"@eng-Latn ,
         "Булган"@mon-Cyrl ;
-    wdata:q7200235 "MN63" ;
 .
 
 <urn:mdciii:1603:16:496:1:64>
@@ -208,7 +193,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bayankhongor"@eng-Latn ,
         "Баянхонгор"@mon-Cyrl ;
-    wdata:q7200235 "MN64" ;
 .
 
 <urn:mdciii:1603:16:496:1:65>
@@ -219,7 +203,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Arxangai"@eng-Latn ,
         "Архангай"@mon-Cyrl ;
-    wdata:q7200235 "MN65" ;
 .
 
 <urn:mdciii:1603:16:496:1:67>
@@ -230,7 +213,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Khovsgol"@eng-Latn ,
         "Хөвсгөл"@mon-Cyrl ;
-    wdata:q7200235 "MN67" ;
 .
 
 <urn:mdciii:1603:16:496:1:81>
@@ -241,7 +223,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Zavkhan"@eng-Latn ,
         "Завхан"@mon-Cyrl ;
-    wdata:q7200235 "MN81" ;
 .
 
 <urn:mdciii:1603:16:496:1:82>
@@ -252,7 +233,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Govi-Altai"@eng-Latn ,
         "Говь-Алтай"@mon-Cyrl ;
-    wdata:q7200235 "MN82" ;
 .
 
 <urn:mdciii:1603:16:496:1:83>
@@ -263,7 +243,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bayan-Olgii"@eng-Latn ,
         "Баян-Өлгий"@mon-Cyrl ;
-    wdata:q7200235 "MN83" ;
 .
 
 <urn:mdciii:1603:16:496:1:84>
@@ -274,7 +253,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Khovd"@eng-Latn ,
         "Ховд"@mon-Cyrl ;
-    wdata:q7200235 "MN84" ;
 .
 
 <urn:mdciii:1603:16:496:1:85>
@@ -285,6 +263,5 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Uvs"@eng-Latn ,
         "Увс"@mon-Cyrl ;
-    wdata:q7200235 "MN85" ;
 .
 
